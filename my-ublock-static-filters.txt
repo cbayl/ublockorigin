@@ -1,0 +1,2022 @@
+! 2022-07-06 https://www.tianqi.com
+www.tianqi.com##.app_erweima
+
+! 2022-07-06 https://superuser.com
+superuser.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+
+! 2022-07-06 https://stackoverflow.com
+stackoverflow.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+
+! 2022-07-06 https://www.yutu.cn
+www.yutu.cn###advertisingBox
+www.yutu.cn##.js_Rightbar.new-rightbar-height
+www.yutu.cn##.focus66.sysFocusImgSing.download-single-bg
+
+||img.86uk.com/iframe.php$subdocument
+
+! 2022-07-06 http://www.dushu369.com
+www.dushu369.com##.nrad04
+www.dushu369.com##.nrad02
+www.dushu369.com##.nrad03
+
+! 2022-07-06 https://pan.baidu.com
+pan.baidu.com##.share-center
+pan.baidu.com##.bd-aside > .ad-platform-tips
+
+! 2022-07-07 https://pan.baidu.com
+pan.baidu.com##.phone-banner
+
+! 2022-07-07 https://creator.xiaohongshu.com
+creator.xiaohongshu.com##.css-g75w05.popular-courses
+
+! 3/2/2019 https://w1.0123movies.watch
+w1.0123movies.watch###cookiedata > span
+w1.0123movies.watch###cookiedata
+
+! 3/5/2019 https://www.meijuku.cn
+||www.meijuku.cn/wp-content/uploads/2019/02/2019022521225837.gif$image
+
+! 5/8/2019 https://w2.i0123movies.com
+w2.i0123movies.com##.mr10.fa-bullseye.fa-blink.fa
+w2.i0123movies.com###cookiedata
+
+! 5/18/2019 http://tl.changyou.com
+tl.changyou.com##.wx
+tl.changyou.com##.wb
+tl.changyou.com##.rgkf
+||i1.cy.com/xtl/main/20171211/ewm.png$image
+
+! 5/25/2019 http://www.bolozone.com
+www.bolozone.com##div.title:nth-of-type(2)
+www.bolozone.com##div.title:nth-of-type(8) > center
+www.bolozone.com##div.title:nth-of-type(17)
+
+! 7/15/2019 https://123movies.gallery
+||123movies.gallery/addons/img/sdrftw3rsdfg.gif$image
+123movies.gallery###yRiJcBEwCmHCnODgIGJgzEc
+
+! 3/2/2020 https://www.merriam-webster.com
+www.merriam-webster.com##.active.recirc-item > .recirc-header
+www.merriam-webster.com##.active.recirc-item > .recirc-content > .recirc-title
+||merriam-webster.com/assets/mw/images/article/art-global-footer-recirc/medical-masks-7257-4228d44029508d89b4769957ea812cb7@*x.jpg$image
+www.merriam-webster.com##.active.recirc-item > .recirc-content > .recirc-img > .ratio-3-2.lazyload-container
+www.merriam-webster.com##.active.recirc-item > .recirc-content > .recirc-img
+www.merriam-webster.com##.active.recirc-item > .recirc-content
+||merriam-webster.com/assets/mw/static/app-css-images/global/iconx.svg$image
+www.merriam-webster.com##.recirc-close
+www.merriam-webster.com##.wgt-games-side.wgt-side
+www.merriam-webster.com##.top-location.wgt-wod-side.wgt-side
+||merriam-webster.com/assets/mw/static/app-css-images/definitions/Pattern_1x.png$image
+||merriam-webster.com/assets/mw/static/app-css-images/definitions/Pattern_1x.png$image
+
+! 3/15/2020 https://news.solarbe.com
+||www.solarbe.com/skin/2018G/image-v2/qr.png$image
+
+! 4/4/2020 https://www.pornhub.com
+www.pornhub.com###streamMateModel
+www.pornhub.com##div.sectionWrapper:nth-of-type(2) > .sectionWrapper > .sectionTitle > h2
+
+! 4/15/2020 https://avgle.com
+avgle.com###ps32-container-inner
+avgle.com###ps32-container
+avgle.com##.hide-me-please2.row
+avgle.com##div.alert-danger.alert-dismissable.alert:nth-of-type(17)
+avgle.com##div.alert-danger.alert-dismissable.alert:nth-of-type(18)
+
+! 4/15/2020 https://www.pornhub.com
+www.pornhub.com##.sectionWrapper > .sectionWrapper
+
+! 4/24/2020 https://avgle.com
+avgle.com##.active.list-group-item
+avgle.com##a.list-group-item:nth-of-type(2)
+avgle.com##a.list-group-item:nth-of-type(3)
+avgle.com##a.list-group-item:nth-of-type(4)
+avgle.com##a.list-group-item:nth-of-type(5)
+avgle.com##a.list-group-item:nth-of-type(6)
+avgle.com##a.list-group-item:nth-of-type(7)
+avgle.com##a.list-group-item:nth-of-type(8)
+avgle.com##a.list-group-item:nth-of-type(9)
+avgle.com##a.list-group-item:nth-of-type(10)
+avgle.com##a.list-group-item:nth-of-type(11)
+avgle.com##a.list-group-item:nth-of-type(12)
+avgle.com##a.list-group-item:nth-of-type(13)
+avgle.com##a.list-group-item:nth-of-type(14)
+avgle.com##a.list-group-item:nth-of-type(15)
+avgle.com##a.list-group-item:nth-of-type(16)
+avgle.com##a.list-group-item:nth-of-type(17)
+avgle.com##a.list-group-item:nth-of-type(18)
+avgle.com##a.list-group-item:nth-of-type(19)
+avgle.com##a.list-group-item:nth-of-type(20)
+avgle.com##a.list-group-item:nth-of-type(21)
+avgle.com##a.list-group-item:nth-of-type(22)
+avgle.com##a.list-group-item:nth-of-type(23)
+avgle.com##a.list-group-item:nth-of-type(24)
+avgle.com##a.list-group-item:nth-of-type(25)
+
+! 4/24/2020 https://www.pornhub.com
+www.pornhub.com###scrollbar_sidebar
+www.pornhub.com##.slimScrollDiv
+
+! 5/23/2020 https://www.ptwxz.com
+
+! 5/23/2020 http://www.playno1.com
+||8.share.photo.xuite.net/playno1/18ea617/19992212/1227204995_x.jpg$image
+
+! 5/24/2020 https://www.yuepaooo.info
+||www.yuepaooo.info/plugin-e6-rebate.html$subdocument
+www.yuepaooo.info###postmessage_268621359 > div:nth-of-type(3)
+
+! 6/29/2020 https://shanximovie.com
+||static.fc2id.com/contents/images/ZQEJVWJ2Z/c6A/VwVH2keVh7dF.png$image
+shanximovie.com##.c-ad-103
+shanximovie.com##.u-fixed-contents > .ad_panelAR
+
+! 7/1/2020 https://www.yuepaoapp.info
+||www.yuepaoapp.info/plugin-e6-rebate.html$subdocument
+www.yuepaoapp.info##.V-video-float-infos
+www.yuepaoapp.info##.V-video-float
+
+! 7/3/2020 https://anon-v.com
+||bate.cum-shows.net/crev/top.html$subdocument
+
+! 2021-02-18 https://cn.knoema.com
+||cn.knoema.com/img/v7/bg-promo.jpg$image
+cn.knoema.com##div.column:nth-of-type(2)
+cn.knoema.com##div.column:nth-of-type(1)
+||cn.knoema.com/img/v7/bg-promo.jpg$image
+cn.knoema.com###product-promotion
+
+! 2021-04-08 https://ww1.123movies.gallery
+||ww1.123movies.gallery/addons/img/435fghsdfsdfg.gif$image
+ww1.123movies.gallery##.aattention.EBhnOiLoHOnNvLBgAlfUAKo > div
+||ww1.123movies.gallery/addons/img/435fghsdfsdfg.gif$image
+
+! 2021-04-15 https://3g.163.com
+3g.163.com##.open-app > span
+3g.163.com##li.js-newlist-app.video_recommend_item:nth-of-type(n)
+3g.163.com##li.video_recommend_item:nth-of-type(n)
+3g.163.com##.recommend_header
+
+! 2021-05-10 https://supjav.com
+supjav.com##.ad_single_top.movv-ad
+||abcabcabc.buzz/cq_qt300x250/true.html$subdocument
+supjav.com##.ad_single_right.movv-ad
+supjav.com##.ad_category_top.movv-ad
+
+! 2021-07-04 https://www.667li.com
+www.667li.com###topBox
+www.667li.com##[href^="http://eyndc.com:808/"]
+www.667li.com##.couplet-left
+www.667li.com##.couplet-right
+
+! 2021-08-31 https://www.rm2029.com
+||www.rm2029.com/fc/1235-tyc.gif$image
+||www.rm2029.com/fc/1235-188bet.gif$image
+||www.rm2029.com/fc/1235-188bet.gif$image
+||www.rm2029.com/fc/1235-tyc.gif$image
+||www.rm2029.com/fc/1235-188bet.gif$image
+||www.rm2029.com/fc/1235-188bet.gif$image
+||www.rm2029.com/fc/*.gif$image
+
+! 2021-09-12 https://91porny.com
+||cdn.jsdelivr.net/gh/91porny/jiuselu/wenming/*.gif$image
+91porny.com##div.col-sm
+||cdn.jsdelivr.net/gh/91porny/jiuselu/wenming/*.gif$image
+||cdn.jsdelivr.net/gh/91porny/*.gif$image
+91porny.com###main > div.p-0.mb-0.container-fluid > .row
+
+! 2021-09-18 https://www.huya.com
+www.huya.com##.jspPane
+www.huya.com##.jspContainer
+www.huya.com##.sidebar-show
+
+! 2021-09-30 https://hsex.men
+||p.91hs004.xyz/p/foybh-iqma8.gif$image
+
+! 2021-10-11 https://www.electronics-tutorials.ws
+www.electronics-tutorials.ws##.comment-list
+www.electronics-tutorials.ws##.clearfix.comments-wrap
+www.electronics-tutorials.ws##.home-top-ads
+www.electronics-tutorials.ws##.col-md-4.sidebar
+
+www.electronics-tutorials.ws##.footer-wrap
+www.electronics-tutorials.ws##.row.row-cnt > .col-md-12.col-sm-12
+
+www.electronics-tutorials.ws##.mobile-menu-links
+www.electronics-tutorials.ws##.overlay-mouser
+www.electronics-tutorials.ws##.hidden-xs.overlay-menu
+www.electronics-tutorials.ws##.clearfix.mb-feature-announcement
+www.electronics-tutorials.ws##.mbile.side-menu
+www.electronics-tutorials.ws##.sd-sharing-enabled.sharedaddy
+
+! 2021-10-12 https://www.inspec-bv.com
+www.inspec-bv.com##.col-sm-12.col-md-12.col-lg-12 > .row
+www.inspec-bv.com##.footer
+
+! 2021-10-24 https://movies123-online.me
+movies123-online.me###_bVvoCCXrbi
+movies123-online.me##.jw-reset.jw-logo-top-left.jw-logo
+
+! ——— youtube
+/annotations_module.js$script,important,domain=youtube.com
+/endscreen.js$script,important,domain=youtube.com
+! seeking
+youtube.com##.ytp-time-seeking
+! player on channel pages
+youtube.com##ytd-channel-video-player-renderer:remove()
+! rickroll
+dQw4w9WgXcQ$document,xhr,domain=youtube.com
+! login
+youtube.com##+js(set, ytInitialPlayerResponse.auxiliaryUi.messageRenderers.upsellDialogRenderer.isVisible, false)
+youtube.com##+js(set, ytInitialData.overlay.upsellDialogRenderer.isVisible, false)
+youtube.com##+js(json-prune, [].playerResponse.auxiliaryUi.messageRenderers.upsellDialogRenderer auxiliaryUi.messageRenderers.upsellDialogRenderer)
+! consent
+youtube.com##+js(set, ytInitialData.topbar.desktopTopbarRenderer.interstitial.consentBumpRenderer.forceConsent, false)
+youtube.com##+js(json-prune, [].response.topbar.desktopTopbarRenderer.interstitial.consentBumpRenderer topbar.desktopTopbarRenderer.interstitial.consentBumpRenderer)
+! Consent V2
+youtube.com##+js(set, ytInitialData.topbar.desktopTopbarRenderer.interstitial.consentBumpV2Renderer, undefined)
+youtube.com##+js(json-prune, [].response.overlay.consentBumpV2Renderer topbar.desktopTopbarRenderer.interstitial.consentBumpV2Renderer overlay.consentBumpV2Renderer response.overlay.consentBumpV2Renderer)
+! some videos redirect persistently to consent page:
+youtube.com##+js(set, ytInitialData.onResponseReceivedEndpoints, undefined)
+! ——— get rid of subtitles that are force-enabled by default
+www.youtube.com##.ytp-caption-segment,.ytp-subtitles-button
+!
+! ——— bandwidhth savings
+.gif|$document
+!
+
+! From https://www.reddit.com/r/uBlockOrigin/wiki/solutions#wiki_twitter
+! My Timeline - no inserted sections (Who to follow/Topics to follow, etc.)
+! My Timeline - no inserted sections (Who to follow/Topics to follow, etc.)
+twitter.com##[aria-label="Timeline: Your Home Timeline"] div[style^="transform: translateY"][style*="position: absolute;"]:not(:first-child:has-text(/^Show \d\d? Tweets?$/)):not(:has(>div:only-child:empty, article, [href^="/i/status/"], [role="progressbar"]))
+! Other Timelines - no inserted sections (Who to follow/Topics to follow, etc.)
+twitter.com##[aria-label$="’s Tweets"] div[style^="transform: translateY"][style*="position: absolute;"]:not(:has(>div:only-child:empty, article, [href^="/i/status/"], [role="progressbar"]))
+! [User] liked
+twitter.com##:is([aria-label="Timeline: Your Home Timeline"], [aria-label$="’s Tweets"]) article :not([role="button"]>div>div>svg>g>path)[d$="13.157H12z"]:upward(article)
+! [User] Retweeted
+twitter.com##:is([aria-label="Timeline: Your Home Timeline"], [aria-label$="’s Tweets"]) article :not([data-testid="unretweet"]>div>div>svg>g>path)[d^="M23.615 15.477c"]:upward(article):not(:has([data-testid="socialContext"]:has-text(/^You/)))
+! [User] received a reply
+twitter.com##[aria-label="Timeline: Your Home Timeline"] article [d$="43-7.787-7.8-7.788z"]:upward([style*="position: absolute"]):has([data-testid="socialContext"]:has-text(/reply$/))
+twitter.com##[aria-label="Timeline: Your Home Timeline"] article [d$="43-7.787-7.8-7.788z"]:upward([style*="position: absolute"]):has([data-testid="socialContext"]:has-text(/reply$/))+div
+! [User] received replies
+twitter.com##[aria-label="Timeline: Your Home Timeline"] article [d$="43-7.787-7.8-7.788z"]:upward([style*="position: absolute"]):has([data-testid="socialContext"]:has-text(/replies$/))
+twitter.com##[aria-label="Timeline: Your Home Timeline"] article>div:first-child:not(:last-child):upward([style*="position: absolute"])
+! [User] replied
+twitter.com##[aria-label="Timeline: Your Home Timeline"] article [d$="43-7.787-7.8-7.788z"]:upward([style*="position: absolute"]):has([data-testid="socialContext"]:has-text(/replied$/))
+twitter.com##[aria-label="Timeline: Your Home Timeline"] article [d$="43-7.787-7.8-7.788z"]:upward([style*="position: absolute"]):has([data-testid="socialContext"]:has-text(/replied$/))+div
+! Follow/Recommended Topic | "[Name of Topic] See more"
+twitter.com##article [aria-label^="Follow Topic"], [aria-label^="Recommended Topic" i]:upward(article)
+! Like and Retweet counts | Remove ` [data-testid="app-text-transition-container"]` to hide entire buttons
+twitter.com##[data-testid="retweet"] [data-testid="app-text-transition-container"], [data-testid="like"] [data-testid="app-text-transition-container"]
+! [User] follows
+twitter.com##[aria-label="Timeline: Your Home Timeline"] article [d^="M12.225 12.165c-1.356"]:upward(article)
+! More Tweets
+twitter.com##[aria-label="Timeline: Conversation"] h2>div>span:has-text(/^More Tweets$/):upward([style^="transform"])
+twitter.com##[aria-label="Timeline: Conversation"] h2>div>span:has-text(/^More Tweets$/):upward([style^="transform"])~div 
+
+! Like and Retweet counts
+! twitter.com##[data-testid="retweet"], [data-testid="like"]
+! More Tweets
+twitter.com##[aria-label="Timeline: Conversation"] h2>div>span:has-text(/^More Tweets$/):upward([style^="transform"])
+twitter.com##[aria-label="Timeline: Conversation"] h2>div>span:has-text(/^More Tweets$/):upward([style^="transform"])~div
+!
+! Sidebar - Topics to follow
+twitter.com##[data-testid="sidebarColumn"] [href="/i/topics/picker/home"]:upward(section)
+! Sidebar - Trending now/Trends for you
+twitter.com##[aria-label$="trending now" i]
+! Sidebar - Who to follow/You might like
+! twitter.com##[aria-label="who to follow" i]
+
+! 2022-06-10 https://stackoverflow.com
+stackoverflow.com##.ps-relative.js-pinned-left-sidebar.left-sidebar
+stackoverflow.com##.show-votes
+stackoverflow.com###sidebar
+
+! 2022-06-17 https://ch.videosection.com
+ch.videosection.com##.invideo-native-adv
+
+! 2022-06-18 https://xvideosdownloader.net
+||xvideosdownloader.net/i/xvideosdownloader.net/itube_an1.gif$image
+||xvideosdownloader.net/i/itubego/itubego-icon-1.png$image
+||xvideosdownloader.net/i/itubego/itubego-icon-1.png$image
+xvideosdownloader.net##.fordesktop.eaa.e2
+||xvideosdownloader.net/itubego/$subdocument
+xvideosdownloader.net##.it1
+xvideosdownloader.net##section:nth-of-type(4)
+xvideosdownloader.net##section:nth-of-type(5)
+xvideosdownloader.net###Q\&A
+xvideosdownloader.net###supported-sites
+xvideosdownloader.net##div.container:nth-of-type(4) > div.row:nth-of-type(2)
+||xvideosdownloader.net/i/itubego/itubego-icon-1.png$image
+||xvideosdownloader.net/i/itubego/itubego-icon-1.png$image
+xvideosdownloader.net##.itbrstk.fordesktop
+xvideosdownloader.net##section:nth-of-type(3)
+xvideosdownloader.net##.footer
+
+! 2022-06-18 https://twittervideodownloader.com
+twittervideodownloader.com##.body-container.row > .columns.large-12 > .row
+twittervideodownloader.com##div:nth-of-type(3)
+twittervideodownloader.com##.columns.large-12 > p
+twittervideodownloader.com##.facebook.share-btn
+twittervideodownloader.com##.twitter.share-btn
+twittervideodownloader.com##.google-plus.share-btn
+twittervideodownloader.com##.columns.large-12 > b
+twittervideodownloader.com##.small.warning.callout
+
+! 2022-06-19 https://yesdownloader.com
+yesdownloader.com###itfloater_wd
+
+! 2022-06-22 https://www.simply-hentai.com
+||util-2.simply-hentai.com/4i4ljrgi/1655912146894?HoXFn=OzsSNxEfSmp8IlU5dy1kHFN0NTIBDlFcQgwBGn5bACFAMxU1Wl8EYXFZUVdmX0MgBA4SdjEwUXgmcW8DWzlgY1xVAVBdAAdZYg4IelRnBCgTCQQ0bw8MHilbQnoHWkRwYWRQdScoYVENP2c1Dl8BAlUHXFowDgoiAQ%3D%3D&c=1$image
+www.simply-hentai.com##.sisti
+||util-1.simply-hentai.com/g5gwomm4/1655912246589?HoXFn=OzsSNxEfSmp8IlU5dy1kHFN0NTIBDlFcQgwBGn5bACFAMxU1Wl0FYndQU1c3WB4nVlpCdmc0A3ogcWIBUj8yMwtZBldYA1IKMlRdIQQxUnsTXQExbw8MHikIGHBRVkZ2YmMAKSUrYFIKPmZkWwlQUVxRAQhiVQtzUQ%3D%3D&c=1$image
+||util-1.simply-hentai.com/ulxsa/1655912246583?HoXFn=OzsSNxEfSmp8IlU5dy1kHFN0NTIBDlFcQgwBGn5bACFAMxU1Wl0FYndQU1dsWxtwVFZFcTJnVS90LzMEWD4wYghUAlNaUFNcYwQMelNhAyhFXwpkbw8MHikJSHtWW0Z9NmYHKyV5ZlFfY2RgXAkEAw4DVQxnVg12Vw%3D%3D&c=1$image
+www.simply-hentai.com##div.text-center:nth-of-type(1)
+www.simply-hentai.com##div.text-center:nth-of-type(4)
+www.simply-hentai.com##div.text-center:nth-of-type(6)
+www.simply-hentai.com##div.text-center:nth-of-type(3)
+
+! 2022-06-23 http://www.weather.com.cn
+www.weather.com.cn##.hotSpot
+www.weather.com.cn##.pic
+www.weather.com.cn##div.right-div.tqsp:nth-of-type(5)
+www.weather.com.cn##.qxcp.right-div
+www.weather.com.cn##.list
+www.weather.com.cn##.tq_zx
+www.weather.com.cn##.hd-img.left-div
+www.weather.com.cn##.greatEvent
+www.weather.com.cn##.weather_shzs
+www.weather.com.cn##.clearfix.newsMore
+www.weather.com.cn##.Lcontent
+www.weather.com.cn##.block
+||i.tq121.com.cn/i/news/right-d13.png$image
+
+! 2022-06-23 https://www.zaobao.com.sg
+www.zaobao.com.sg##.group > .block-block-custom-free-form-block.block-zb-common.block > .content
+www.zaobao.com.sg##.col-12.group
+www.zaobao.com.sg##.secondary.cxense3.cxense
+www.zaobao.com.sg###js-topnavbar-tertiary > .topnavbar-content
+www.zaobao.com.sg##.aside-item-podcast.aside-item > .aside-item-content
+www.zaobao.com.sg##.footer
+
+! 2022-06-23 https://news.qq.com
+news.qq.com##.news-huati.news-bar
+news.qq.com##.top-list.list
+news.qq.com##.c-box
+news.qq.com##.news-tit
+
+! 2022-06-23 https://www.bbc.co.uk
+www.bbc.co.uk##.sc-o-scrollable
+www.bbc.co.uk##.play-u-slice-spacing.sc-c-scrollable-list--medium.sc-c-scrollable-list
+
+! 2022-06-23 https://new.qq.com
+new.qq.com##.RIGHT
+new.qq.com##.fixed-bar
+new.qq.com##.left-stick-wp
+new.qq.com##.recommend-con
+
+! 2022-06-23 https://www.y2mate.com
+www.y2mate.com##.p-r-md.p-l-md.row-centered.row-bordered.row-padded.row
+www.y2mate.com##div.p-r-md.p-l-md.text-center.homepage-grid.row-bordered.row-padded.row:nth-of-type(3)
+www.y2mate.com##.p-r-md.p-l-md.m-t.text-center.homepage-grid.row-padded.row
+www.y2mate.com##.featured.p-r-md.p-l-md.text-center.homepage-grid.row-bordered.row-padded.row
+www.y2mate.com##.extension-header
+www.y2mate.com##.footer-borderless.clearfix.footer
+
+! 2022-06-23 https://cg.163.com
+cg.163.com##li.searchitem:nth-of-type(10)
+cg.163.com##.feedback
+cg.163.com##.g-color.search-tips
+
+! 2022-06-23 https://news.yahoo.com
+news.yahoo.com##.YDC-Col2
+news.yahoo.com##.ybar-menu-hover-open._yb_ez8ep
+
+! 2022-06-23 https://yandex.com
+yandex.com##.PopularRequestList
+
+! 2022-06-23 http://www.dushu369.com
+www.dushu369.com##.tabledh2
+www.dushu369.com##td.xzyd > .xzyd
+www.dushu369.com##.Readme
+www.dushu369.com##.dhtd002
+www.dushu369.com##.mainNav
+
+! 2022-06-23 https://yandex.com
+yandex.com##.incut-controller_js_inited.serp-controller_js_inited.serp-controller_page_index.navigation-controller_js_inited.i-bem.incut-controller.navigation-controller.serp-controller_small-top-padding.serp-controller_viewer-history.serp-controller_viewer.serp-controller_vertical-shadowed.serp-controller_grid-counter.serp-controller_prefetch_yes.serp-controller_complain_yes.serp-controller_navigation_yes.serp-controller_infinite_yes.serp-controller.page-layout_layout_serp.page-layout_page_index.page-layout
+yandex.com##.footer_js_inited.i-bem.clearfix.footer_layout_serp.footer
+
+! 2022-06-23 https://www.youtube.com
+www.youtube.com###content > .ytd-rich-section-renderer.style-scope
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
+www.youtube.com###guide-links-primary
+www.youtube.com###guide-links-secondary
+
+! 2022-06-23 https://www.tumblr.com
+www.tumblr.com##div.FZkjV:nth-of-type(2)
+www.tumblr.com##div.So6RQ:nth-of-type(3)
+www.tumblr.com##div.So6RQ:nth-of-type(2)
+www.tumblr.com##.HphhS
+www.tumblr.com##.kDCXR.Oii0L > .jxu4l
+www.tumblr.com##.pqNoe
+www.tumblr.com##.fM0TQ
+
+! 2022-06-23 https://twitter.com
+twitter.com##.r-ymttw5.r-1w6e6rj.r-18u37iz.css-1dbjc4n
+
+! 2022-06-23 https://tianqi.2345.com
+tianqi.2345.com##.box-mod-right
+tianqi.2345.com##.ads-cnxh
+tianqi.2345.com##.mod-city-weather.ui-tab-2
+tianqi.2345.com##div.mod-left-wrap:nth-of-type(7)
+
+! 2022-06-23 https://cn.pornhub.com
+cn.pornhub.com##div.sectionWrapper:nth-of-type(5)
+
+! 2022-06-24 https://www.zaobao.com.sg
+www.zaobao.com.sg##.aside-recommended-desktop.aside-recommended
+www.zaobao.com.sg###block-customfreeformblock-4
+www.zaobao.com.sg###NextPrevious
+
+! 2022-06-24 https://www.xnxxvideodownload.com
+www.xnxxvideodownload.com###itfloater_wd
+www.xnxxvideodownload.com##.f
+www.xnxxvideodownload.com##.itgban1
+www.xnxxvideodownload.com##.fordesktop.itbrstk
+www.xnxxvideodownload.com##.it1
+www.xnxxvideodownload.com##.dlbtn-big
+www.xnxxvideodownload.com###wappBtn
+!www.xnxxvideodownload.com###z21 > div
+www.xnxxvideodownload.com##.suggestlang
+
+! 2022-06-24 https://www.xnxxvideodownload.com
+www.xnxxvideodownload.com##.sdlifr
+
+! 2022-06-24 https://yesdownloader.com
+yesdownloader.com##.fordesktop.itbrstk
+yesdownloader.com##.itgban1
+yesdownloader.com##.it1
+yesdownloader.com##section:nth-of-type(4)
+yesdownloader.com##.col-sm-12
+yesdownloader.com###Q\&A
+yesdownloader.com##div.container:nth-of-type(4) > div.row:nth-of-type(2)
+yesdownloader.com##.sdlifr
+yesdownloader.com##.suggestlang
+yesdownloader.com##.Tips
+yesdownloader.com##.p-r-md.p-l-md.text-center.homepage-grid.row-bordered.row-padded.row
+yesdownloader.com###supported-sites
+yesdownloader.com##section:nth-of-type(5)
+yesdownloader.com##section:nth-of-type(6)
+yesdownloader.com##.fordesktop.btn-lg.btn-danger.btn
+yesdownloader.com###bs-example-navbar-collapse-1
+yesdownloader.com##.navbar-default.navbar > .container-fluid
+yesdownloader.com##.footer
+yesdownloader.com#@#.container-fluid>.navbar-collapse, .container-fluid>.navbar-header, .container>.navbar-collapse,
+yesdownloader.com#@#.container>.navbar-header
+
+! 2022-06-27 https://redtubedownload.com
+redtubedownload.com##.fordesktop.itbrstk
+redtubedownload.com##.itgban1
+redtubedownload.com##.it1
+redtubedownload.com##section:nth-of-type(4)
+redtubedownload.com##.col-sm-12
+redtubedownload.com###Q\&A
+redtubedownload.com##div.container:nth-of-type(4) > div.row:nth-of-type(2)
+redtubedownload.com##.sdlifr
+redtubedownload.com##.suggestlang
+redtubedownload.com##.Tips
+redtubedownload.com##.p-r-md.p-l-md.text-center.homepage-grid.row-bordered.row-padded.row
+redtubedownload.com###supported-sites
+redtubedownload.com##section:nth-of-type(5)
+redtubedownload.com##section:nth-of-type(6)
+redtubedownload.com##.fordesktop.btn-lg.btn-danger.btn
+redtubedownload.com###bs-example-navbar-collapse-1
+redtubedownload.com##.navbar-default.navbar > .container-fluid
+redtubedownload.com##.footer
+redtubedownload.com#@#.container-fluid>.navbar-collapse, .container-fluid>.navbar-header, .container>.navbar-collapse,
+redtubedownload.com#@#.container>.navbar-header
+
+! 2022-06-25 https://rule34video.com
+rule34video.com##.thumb.spot-thumb
+
+! 2022-06-25 https://www.accuweather.com
+www.accuweather.com##.non-ad.content-module.zone-rightRail1
+www.accuweather.com##.non-ad.zone-rightRail2
+www.accuweather.com##.banner-body
+www.accuweather.com##.privacy-policy-banner
+
+! 2022-06-26 https://pastedownload.com
+pastedownload.com###changelog
+
+! 2022-06-26 https://theporndude.com
+theporndude.com##.inner-footer
+
+! 2022-06-26 https://bestpornsites.org
+bestpornsites.org##.header_container
+
+! 2022-06-26 https://porngeek.com
+porngeek.com##.text-bottom
+
+! 2022-06-26 https://www.redtubedownload.com
+www.redtubedownload.com##.fordesktop.e2-dl.e2
+www.redtubedownload.com##section.e:nth-of-type(7)
+www.redtubedownload.com##section.d:nth-of-type(8)
+www.redtubedownload.com##.d.j.e
+www.redtubedownload.com##.fordesktop.d.k2
+www.redtubedownload.com###wappBtn
+www.redtubedownload.com##.z15
+www.redtubedownload.com##.fordesktop.d.k.e
+www.redtubedownload.com##.f
+||www.redtubedownload.com/itubego/$subdocument
+
+! 2022-06-26 https://www.youporndownload.net
+www.youporndownload.net##.fordesktop.e2-dl.e2
+www.youporndownload.net###wappBtn
+!www.youporndownload.net###z21 > div:nth-of-type(2)
+www.youporndownload.net##.suggestlang
+www.youporndownload.net##section.e2:nth-of-type(4)
+
+www.youporndownload.net##.f
+www.youporndownload.net##.fordesktop.itbrstk
+www.youporndownload.net###itfloater_wd
+www.youporndownload.net##.e2-dl.e2
+www.youporndownload.net##.it1
+www.youporndownload.net##.sdlifr
+
+www.youporndownload.net##.itgban1
+www.youporndownload.net##section.e:nth-of-type(7)
+www.youporndownload.net##section.d:nth-of-type(8)
+www.youporndownload.net##.d.j.e
+www.youporndownload.net##.fordesktop.d.k2
+www.youporndownload.net##.fordesktop.d.k.e
+
+! 2022-06-26 https://i9cx7p9pzt.1000traffics.com
+i9cx7p9pzt.1000traffics.com##p:nth-of-type(2)
+
+! 2022-06-27 https://smutba.se
+smutba.se##.js-staffpick.staffpicks-container
+smutba.se##.staffpicks__title
+smutba.se##div.content-container:nth-of-type(1)
+smutba.se##footer
+smutba.se##.patreon__step
+smutba.se##.news__header
+smutba.se##.news__video
+smutba.se##.main-upload > div.panel > .panel__body
+smutba.se##thead > tr > td
+
+! 2022-06-28 https://www.zzcartoon.com
+www.zzcartoon.com##.right-banner
+||www.zzcartoon.com/images/header-bg.png$image
+
+! 2022-06-30 http://www.mmff05.com
+www.mmff05.com##.l1
+www.mmff05.com###menu_top_gg
+www.mmff05.com##.table
+www.mmff05.com###menu_bottom_gg
+www.mmff05.com###top_notice
+www.mmff05.com###content_top_gg > .titletablerow
+
+! 2022-06-30 https://www.dcard.tw
+www.dcard.tw##[href^="https://www.dcard.tw/goods/widgets/2204_thismonthnewitem"] > .hLiYns.sc-6281dc2a-0 > .dugvIP.sc-64a0a5e9-0 > .cOINxk.sc-64a0a5e9-2 > .jkItXN.sc-5b9ad25-0 > .ICLoc.sc-5b9ad25-1 > canvas
+www.dcard.tw##.iaqFEe.sc-8c52b716-0 > div > div > .dugvIP.sc-64a0a5e9-0 > .cOINxk.sc-64a0a5e9-2
+www.dcard.tw##div:nth-of-type(10)
+www.dcard.tw##.iaqFEe.sc-8c52b716-0 > div > div > .dugvIP.sc-64a0a5e9-0
+www.dcard.tw##div:nth-of-type(12)
+www.dcard.tw##.IChlq.sc-39d00393-0
+www.dcard.tw##div:nth-of-type(11)
+www.dcard.tw##.gVTOXe.sc-a6756230-0
+!www.dcard.tw##.gctwVv.sc-2baaf926-1
+
+! 2022-06-30 http://www.mmff05.com
+www.mmff05.com###page_bottom_top_gg
+www.mmff05.com##.table2
+www.mmff05.com##.titletablegreen.titletablecell > [href^="http://hlw.6lpkki0p.work/"]
+www.mmff05.com##[href="https://www.hbcpvip.com/"]
+www.mmff05.com###content_bottom_gg > .titletablerow
+
+! 2022-06-30 https://zh.spankbanglive.com
+zh.spankbanglive.com##.with-activity-list.system-text-message-announce.system-text-message.public-menu-announcement-message.message-base.message.m-line-menu-announce.m-bg-system
+zh.spankbanglive.com##div.welcome-bot-message.regular-public-message.regular-message.message-base.message.m-bg-model > .message-body
+zh.spankbanglive.com##.tokens-giveaway-message.message-base.message.m-line-system-announce.m-bg-system > .message-body
+
+! 2022-06-30 https://www.swbbsc.com
+www.swbbsc.com##.ppp111000111a_mu
+
+! 2022-06-30 https://www.tianqi.com
+www.tianqi.com##.hhx_newB_kindTit
+www.tianqi.com##div.racitybox:nth-of-type(20)
+www.tianqi.com##.hhx_newB_kindCon > div
+www.tianqi.com##.toutiao760b
+www.tianqi.com##.city_culture
+www.tianqi.com##.tit02
+www.tianqi.com##.clearfix.hhxCulture
+www.tianqi.com##.yangsheng_shipu_right
+www.tianqi.com##.clearfix.all_r300box
+www.tianqi.com###footer
+
+! 2022-07-07 https://www.thumbzilla.com
+www.thumbzilla.com###greeting
+
+! 2022-07-08 https://www.bilibili.com
+www.bilibili.com##.login-tip
+www.bilibili.com##.is-in-large-ab.small-mode.right-container > .ad-floor-exp.ad-report
+www.bilibili.com##.part-undefined.report-scroll-module.report-wrap-module.pop-live-small-mode
+
+! 2022-07-09 https://www.xiagongdi.com
+www.xiagongdi.com##.layui-layer-molv.layui-layer-dialog.layui-layer
+www.xiagongdi.com###layui-layer-shade1
+www.xiagongdi.com##.modal-card
+www.xiagongdi.com##.modal-background
+www.xiagongdi.com##.is-active.modal
+
+! 2022-07-09 https://haokan.baidu.com
+haokan.baidu.com##img.landrightbanner-element
+haokan.baidu.com##.guess
+
+! 2022-07-09 https://creator.xiaohongshu.com
+creator.xiaohongshu.com##.css-g75w05.inspiration-box > .hot-activity
+creator.xiaohongshu.com##div.hot-week:nth-of-type(4)
+
+! 2022-07-09 https://space.bilibili.com
+space.bilibili.com##.login-tip
+
+! 2022-07-09 https://www.bilibili.com
+www.bilibili.com##.video-page-special-card-small
+
+! 2022-07-11 https://forums.autodesk.com
+forums.autodesk.com##[href="https://forums.autodesk.com/t5/community-conversations/eb-p/communityconversations"] > .custom-side-img
+forums.autodesk.com##[href="https://www.autodesk.com/campaigns/aec-community-signup"] > .custom-side-img
+forums.autodesk.com##.dhig-py-7.cmp-mega-footer
+forums.autodesk.com##.custom-category-board-header
+
+! 2022-07-11 https://www.geeksforgeeks.org
+www.geeksforgeeks.org##.modal-container
+
+! 2022-07-11 https://www.jb51.net
+www.jb51.net##.clearfix.pt10
+www.jb51.net##.main-right
+www.jb51.net##.fl.logom
+www.jb51.net##.fr.logor > .tipsa_ds
+
+! 2022-07-12 https://nsfwmonster.com
+nsfwmonster.com##.backend.flex-images.content
+!nsfwmonster.com##.text-center.justify-content-center.d-flex
+
+! 2022-07-15 https://www.thesourcecad.com
+www.thesourcecad.com##.fusion-column-no-min-height.fusion-flex-column.\31 _1.fusion_builder_column_1_1.fusion-builder-column-8.fusion_builder_column.fusion-layout-column
+www.thesourcecad.com##.comments-container
+www.thesourcecad.com##.comment-respond
+
+! 2022-07-18 https://ru.hentai-img.com
+ru.hentai-img.com###inline_search_bottom_3
+ru.hentai-img.com###inline_search_bottom_2
+ru.hentai-img.com###inline_search_bottom_1
+
+! 2022-07-18 https://hentai-img.com
+hentai-img.com###inline_search_bottom_2
+hentai-img.com###inline_search_bottom_3
+hentai-img.com###inline_search_bottom_1
+
+! 2022-07-19 https://xwifepics.com
+!xwifepics.com##ul.thumbs:nth-of-type(2)
+!xwifepics.com##ul.thumbs:nth-of-type(1)
+
+! 2022-07-19 https://outdoorpornpics.com
+outdoorpornpics.com##ul.thumbs:nth-of-type(1) > li.banner:nth-of-type(1)
+outdoorpornpics.com##ul.thumbs:nth-of-type(1) > li.banner:nth-of-type(2)
+outdoorpornpics.com##ul.thumbs:nth-of-type(1) > li.banner:nth-of-type(3)
+outdoorpornpics.com##ul.thumbs:nth-of-type(1) > li.banner:nth-of-type(4)
+outdoorpornpics.com##ul.thumbs:nth-of-type(2) > li.banner:nth-of-type(1)
+outdoorpornpics.com##ul.thumbs:nth-of-type(2) > li.banner:nth-of-type(2)
+outdoorpornpics.com##ul.thumbs:nth-of-type(2) > li.banner:nth-of-type(3)
+outdoorpornpics.com##ul.thumbs:nth-of-type(2) > li.banner:nth-of-type(4)
+
+! 2022-07-20 https://www.baidu.com
+www.baidu.com###s_wrap
+www.baidu.com###con-ar
+
+! 2022-07-23 https://www.fapcat.com
+www.fapcat.com##.spot-underplayer
+
+! 2022-07-25 https://www.douyu.com
+www.douyu.com##div.wm-general:nth-of-type(1)
+www.douyu.com##.wm-tabv2
+www.douyu.com##div.wm-general:nth-of-type(4)
+www.douyu.com##div.wm-general:nth-of-type(9)
+www.douyu.com##div.wm-general:nth-of-type(3)
+www.douyu.com##div.wm-general:nth-of-type(5)
+www.douyu.com##div.wm-general:nth-of-type(6)
+www.douyu.com##div.wm-general:nth-of-type(7)
+www.douyu.com##div.wm-general:nth-of-type(8)
+www.douyu.com##div.wm-general:nth-of-type(10)
+www.douyu.com###js-room-activity
+www.douyu.com##.PkView
+www.douyu.com##.layout-Player-toolbar
+www.douyu.com###root > .bc-wrapper
+
+! 2022-07-30 https://www.tianqi.com
+www.tianqi.com##.zhishubox.wrap1100
+
+! 2022-07-30 https://www.zhihu.com
+www.zhihu.com##.Question-sideColumn--sticky.Question-sideColumn > div
+
+! 2022-07-31 https://www.yutu.cn
+www.yutu.cn##.right-model
+
+! 2022-07-31 https://www.swbbsc.com
+www.swbbsc.com###xydlleft
+www.swbbsc.com###xydlright
+www.swbbsc.com##div.a_f.wp > .a_f.wp
+www.swbbsc.com##marquee
+www.swbbsc.com###postmessage_1120483 > .a_pr
+
+! 2022-07-31 https://homeofpdf.com
+homeofpdf.com###choiceWindow-donate
+homeofpdf.com###choiceWindow-ad
+homeofpdf.com###backGround-donate
+homeofpdf.com###backGround-ad
+homeofpdf.com###notice
+homeofpdf.com##.tm-footer.tm-text-gray.pb-4.pt-5.tm-bg-gray
+
+! 2022-07-31 https://url20.ctfile.com
+url20.ctfile.com##div.mb-3.card.h-100 > .card-body > .no-gutters.row
+url20.ctfile.com##div.mb-3.bg-light.card:nth-of-type(10)
+url20.ctfile.com##div.overflow-hidden.mb-3.card:nth-of-type(2)
+url20.ctfile.com##div.overflow-hidden.mb-3.card:nth-of-type(3)
+url20.ctfile.com##.fs-1.text-center.col-auto
+url20.ctfile.com##.flex-row.d-flex.p-3.card-body
+
+! 2022-07-31 https://fcww30.com
+fcww30.com##.all960
+fcww30.com##.topline
+fcww30.com##.content > [href^="http://gdgbh14.com/"]
+
+! 2022-08-01 https://spankbang.com
+spankbang.com##.pornstars
+spankbang.com##.models
+
+! 2022-08-01 https://www.patreon.com
+www.patreon.com##.cphEhf.sc-1de6id1-1
+
+! 2022-08-03 http://www.gansex4.com
+www.gansex4.com##.fd_foot_a
+
+! 2022-08-04 https://www.porn5f.com
+www.porn5f.com##.top_slider.container
+www.porn5f.com##.col-md-4
+www.porn5f.com##.vjs-modal-dialog.vjs-error-display > .vjs-modal-dialog-content
+www.porn5f.com##.preroll-adv-two.preroll-adv-popup-overlay
+www.porn5f.com##.vjs-modal-dialog.vjs-error-display
+
+! 2022-08-04 https://www.pornbest.org
+www.pornbest.org##div.links.row > div.px-1.p-0.item.col-12.col-sm-4.col-md-3.col-lg-3 > .card
+www.pornbest.org##.mt-3
+www.pornbest.org##.p-1.row
+www.pornbest.org##div#links.row.my-1.links:nth-of-type(5)
+www.pornbest.org##div#links.row.my-1.links:nth-of-type(1)
+
+! 2022-08-04 https://superparse.com
+superparse.com##[href="https://landing1.shuiyinyu.com/pages/dashen-superparse/index"]
+
+! 2022-08-04 https://so.gushiwen.cn
+so.gushiwen.cn###threeWeixin2
+so.gushiwen.cn##.main3 > .right
+
+
+
+! 2022-08-06 https://66sex.xyz
+66sex.xyz###video_playr_side > div > [href="https://cddma.shengpingqj.com:6996"]
+66sex.xyz##div.ceda24.c60540.cb667059.c93de0a4.c066a0b9:nth-of-type(1)
+66sex.xyz##div.ceda24.c60540.cb667059.c93de0a4.c066a0b9:nth-of-type(3)
+66sex.xyz##.d3100b11a7a8adf90a82f12be7bc5e44e
+66sex.xyz##.__long_gg_container.m-100.q-mt-xs
+66sex.xyz###video_playr_sider > div > [href="https://cddma.shengpingqj.com:6996"]
+66sex.xyz##.plr0.col-sm-4.col-md-2
+66sex.xyz##.q-dark.q-card--dark.q-card.alert_windows.up-dialog-auto
+
+! 2022-08-06 https://www.t66y.com
+www.t66y.com##.tips > .sptable_do_not_remove
+
+! 2022-08-07 https://www.digitalocean.com
+www.digitalocean.com##.khfYvn.ToastStyles__StyledWrapper-sc-ekxewm-0
+
+! 2022-08-07 https://developer.mozilla.org
+developer.mozilla.org##.mdn-cta-container
+
+! 2022-08-08 https://www.tianqi.com
+www.tianqi.com##[src^="//so.tianqistatic.com/scouobg?zlg=YXZ-&khl=YZX&gl=R_b-Z-_.&v1=Z.Yab-Y-c_&v2=.caXdYYd_&owx=EQQMP6_e6Zj6ZjTTT64QF7KNF649LJ6ZjWER9EBKD6Zjb6Zj&gf=_&dqw=Y&glv=X&sv=YcXUX&sdu=Y._aUcZ-&gwp=lxqp4tswx&hasv=YYXZbX,YYXZ.b,YYXXXd,YYYXXY,YYXXYY&yhu=XbZb&hfg=Y&fhf=yxj5c"]
+
+! 2022-08-09 https://www.yutu.cn
+www.yutu.cn##.right-block
+www.yutu.cn##.software-details-list
+
+! 2022-08-31 http://www.kxkmh.com
+www.kxkmh.com###manga_detail_banner
+
+! 2022-09-03 https://so.gushiwen.cn
+so.gushiwen.cn##.sonspic
+so.gushiwen.cn##div.sons:nth-of-type(12)
+so.gushiwen.cn##div.sons:nth-of-type(14)
+so.gushiwen.cn##div.sons:nth-of-type(16)
+so.gushiwen.cn##.title
+so.gushiwen.cn###btmwx
+
+! 2022-09-07 https://pangzitv.com
+pangzitv.com###pop
+
+! 2022-09-11 https://www1.123movies-site.com
+!www1.123movies-site.com##.text-center.alert.ann-home
+!www1.123movies-site.com##header
+!www1.123movies-site.com##.mlw-related.movies-list-wrap
+
+! 2022-09-11 https://cooking.stackexchange.com
+cooking.stackexchange.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+
+! 2022-09-18 https://kjfh.com
+kjfh.com##body > [href^="http://aaa.22229966.com/2.tz"]
+kjfh.com##a[href*="https://iud780.com/"]:nth-of-type(3)
+kjfh.com##[href="http://9966107.xyz"]
+kjfh.com##a[href*="https://iud780.com/"]
+kjfh.com###header
+kjfh.com###main > .t
+kjfh.com##.tr2 > .tar
+kjfh.com###main > center > [href*="https://aztytz26a.com/"]
+
+! 2022-09-26 https://xxxshake.com
+xxxshake.com##.show_sb
+
+! 2022-10-01 https://www.metarthunter.com
+www.metarthunter.com##.clip-b.gallery-a
+www.metarthunter.com##.desktop-ban.banner-wide.text-center
+www.metarthunter.com##.clip-a.gallery-a
+
+! 2022-10-03 https://123movies.ba
+123movies.ba##.main-category.main-content > center > [href="https://www.shoort.io"]
+
+! 2022-10-04 https://365datascience.com
+365datascience.com##.Campaign--css.CampaignType--popup.Campaign.sanjose-campaign
+
+! 2022-10-05 https://zhuanlan.zhihu.com
+!zhuanlan.zhihu.com##.Modal-enter-done.undefined.Modal-wrapper
+||static.zhihu.com/heifetz/main.signflow.*.js
+||static.zhihu.com/heifetz/column.modals.*.js
+||static.zhihu.com/heifetz/column.*.js
+
+
+
+! 2022-10-08 http://rtmtxz.com
+rtmtxz.com##.flash
+
+! 2022-10-09 https://18comic.vip
+18comic.vip##div.col-xs-6.col-sm-3.col-md-3.col-lg-3 > .a413-60_c1
+18comic.vip##.top-a2db.a413-60_c1
+18comic.vip##.thumb-overlay-albums.row > .a413-60_c1
+
+! 2022-10-09 https://www.rtmm6.com
+www.rtmm6.com##[href^="https://tz.yuanmengbi.com//iisc.html"]
+www.rtmm6.com##[href="//www.jpmmg.in"]
+
+! 2022-10-09 https://jjgirls.com
+jjgirls.com##.a160120
+jjgirls.com##div.a243203:nth-of-type(2)
+jjgirls.com##div.a243203:nth-of-type(4)
+jjgirls.com##div.a243203:nth-of-type(6)
+jjgirls.com##div.a243203:nth-of-type(8)
+jjgirls.com##div.a243203:nth-of-type(10)
+jjgirls.com##h3:nth-of-type(4)
+jjgirls.com##h3:nth-of-type(5)
+jjgirls.com##h3:nth-of-type(3)
+jjgirls.com##h3:nth-of-type(2)
+jjgirls.com##h3:nth-of-type(1)
+jjgirls.com##.a326222
+jjgirls.com###footer
+jjgirls.com##.p160222 > [href="/sex/lollipopgirls"]
+jjgirls.com##[href="/sex/tokyofacefuck"]
+jjgirls.com##[href="/sex/cumbuffet"]
+jjgirls.com##.p160222 > [href="/sex/cospuri"]
+jjgirls.com##[href="/sex/Caribbeancom"]
+jjgirls.com##.p160222 > [href="/sex/legsjapan"]
+jjgirls.com##[href="/sex/Spermmania"]
+jjgirls.com##.p160222 > [href="/sex/JavHD"]
+jjgirls.com##.L166 > [href="/mobile/1"]
+jjgirls.com##.p160222 > [href="/sex/handjobjapan"]
+jjgirls.com##[href="/sex/fellatiojapan"]
+jjgirls.com##[href="/sex/uralesbian"]
+jjgirls.com##[href="/sex/Tokyo-Hot"]
+jjgirls.com##.p160222 > [href="/sex/chaturbate"]
+jjgirls.com###player
+jjgirls.com##.tabj
+jjgirls.com##.p160222 > [href="/sex/tgirljapan"]
+jjgirls.com##[href="/sex/SakuraLive"]
+jjgirls.com##.a326408
+
+jjgirls.com##[href^="/sex/"]
+!jjgirls.com##.thumbs4
+jjgirls.com##.bottom
+!jjgirls.com##.thumbs3
+jjgirls.com##.desc > div > .link1
+jjgirls.com##.desc > div > span
+jjgirls.com##.info
+jjgirls.com##div.radius.block3
+jjgirls.com##.network
+jjgirls.com##a.a1
+jjgirls.com##.radius.block2
+jjgirls.com##.block3
+jjgirls.com##.block2
+jjgirls.com##.block4
+jjgirls.com##.a1
+jjgirls.com##.a2
+jjgirls.com##.top
+jjgirls.com##.b-guaranties
+jjgirls.com##.b-pictures > .btn-download.btn
+jjgirls.com##.b-pictures > .btn-watch.btn
+jjgirls.com##.b-thumbs-video
+jjgirls.com##.b-header-join
+
+! 2022-10-09 https://jjgirls.com
+jjgirls.com##.thumbs4
+jjgirls.com##.thumbs3
+jjgirls.com##h2
+
+! 2022-10-14 https://bbs.sgcn.com
+bbs.sgcn.com##.huyou_no_login
+bbs.sgcn.com##[src="https://tp.sgcn.com/fanyizuo.gif"]
+||tp.sgcn.com/mengniuzuo.gif$image
+bbs.sgcn.com##[src="https://tp.sgcn.com/shangwuzuo.gif"]
+bbs.sgcn.com##[src="https://tp.sgcn.com/futuzuo.gif"]
+bbs.sgcn.com##[src="https://tp.sgcn.com/mengniuzuo.gif"]
+bbs.sgcn.com##.topabox
+bbs.sgcn.com###pid154968545 > tbody > tr > .plc > .pct > .pcb > .t_fsz > table > tbody > tr > td > .a_pr
+bbs.sgcn.com##.a_pr
+
+! 2022-10-28 http://41thz.com
+41thz.com##.a_cb.a_fl
+41thz.com##.ex1
+41thz.com##.a_cb.a_fr
+41thz.com##.a_cn
+41thz.com##center > [href="https://1156.yalqq8976.com/daili11.htm"]
+41thz.com##center > [href="http://23.224.188.2:2939/vip110.html"]
+41thz.com##center > [href="https://h5231.com:30021"]
+41thz.com##center > [href="https://8621n.com:1788"]
+41thz.com##center > [href="https://b1736.com:36555"]
+41thz.com##[href="https://v7327.com:5698"]
+41thz.com##center > [href="https://x62999.com:54433"]
+41thz.com###ft
+41thz.com##.it618_firstad_flex
+41thz.com##.mn > div > center > [href="https://fcyipiy18.com"]
+41thz.com##[href="https://102807.cc"]
+41thz.com##center > [href="https://n9667.com:1688"]
+41thz.com##center > [href="https://3427x.com:8633"]
+41thz.com##[href="http://ml128ppp.xyz"]
+41thz.com##center > [href="https://2645x.com:8825"]
+41thz.com##body > div > center > [href="https://fcyipiy18.com"]
+41thz.com##center > [href="https://www.629340.com"]
+41thz.com##[href="https://8449dli.com/index/index/redir_refferal/3NOHKK7753/token/ccabc4b686bee3fd1e82c2a1c446e49cnHSF"]
+41thz.com##center > [href="http://7889k8.com/guanggao011"]
+41thz.com##[href^="https://ee0077.cc:8443"]
+41thz.com##[href^="https://www.bet365.gdn/"]
+41thz.com##[href^="https://6431237.cc:8443"]
+41thz.com##[href="http://6686tg114.app"]
+41thz.com##[href^="https://www.yxx288.com/"]
+41thz.com##center > [href="https://888gg.com.cn"]
+41thz.com##center > [href="https://gfzv.at"]
+41thz.com##[href="https://sm77e.com"]
+41thz.com##center > [href="https://7785da.com"]
+41thz.com##center > [href="https://u2787.com:2588"]
+41thz.com##center > [href="https://2168t.com:30653"]
+41thz.com##[href^="https://7153x.com/"]
+41thz.com##center > [href="https://v4833.com:8663"]
+41thz.com##.move-span.block.cl_block_bm
+41thz.com###aimg_ydRM4
+41thz.com###aimg_QcwdH
+41thz.com###aimg_MYRqq
+41thz.com###aimg_zYh1E
+||img.eysleya.com/i/changj/0702/xuzkt0.jpg$image
+||img.eysleya.com/i/changj/0702/xuzkt0.jpg$image
+||img.eysleya.com/i/changj/0702/xuzkt0.jpg$image
+||img.eysleya.com/i/changj/0702/xuzkt0.jpg$image
+||img.eysleya.com/i/changj/0702/xuzkt0.jpg$image
+||img.eysleya.com/i/changj/0702/xuzsm2.jpg$image
+||img.eysleya.com/i/changj/0702/xuzkdb.jpg$image
+||img.eysleya.com/i/changj/0702/xuzql3.jpg$image
+||img.eysleya.com/i/changj/0702/xuzql3.jpg$image
+||img.eysleya.com/i/changj/0702/xuzql3.jpg$image
+||img.eysleya.com/i/changj/0702/xuzqd4.jpg$image
+||img.eysleya.com/i/changj/0702/xuzmiy.jpg$image
+||img.eysleya.com/i/changj/0702/xuzk3e.jpg$image
+||img.eysleya.com/i/changj/0702/xuzk3e.jpg$image
+||img.eysleya.com/i/changj/0702/xuzk3e.jpg$image
+||img.eysleya.com/i/changj/0702/xuzk3e.jpg$image
+
+! 2022-10-29 https://www.cartoon18.com
+www.cartoon18.com##.elevation-4.sidebar-light-primary.main-sidebar
+www.cartoon18.com##.pt-sm-3.pt-5.p-3.control-sidebar-dark.control-sidebar
+www.cartoon18.com##.main-footer
+
+! 2022-10-31 https://realpython.com
+realpython.com##.show.fade.modal
+realpython.com##.show.fade.modal-backdrop
+
+! 2022-11-11 https://www.bbc.com
+www.bbc.com###zephr-message
+
+! 2022-11-16 https://www.yinmh.com
+
+www.yinmh.com##[id^="yinmh_"]
+
+! 2022-11-16 https://18comic.vip
+18comic.vip##div.list-col.col-xs-6.col-sm-3.col-md-3.col-lg-3 > .a35c7-1_4
+
+! 2022-11-19 https://18comic.vip
+18comic.vip##.a35c7-1_4
+
+! 2022-11-20 http://www.jiyifa.com
+www.jiyifa.com##.adz3
+www.jiyifa.com##div.sidebar > ul
+
+! 2022-11-20 https://www.sex8.cc
+www.sex8.cc##.b_oscar2
+www.sex8.cc###fixed-bottom-modal
+www.sex8.cc##.float-left12.fnwehjnc12.full
+www.sex8.cc##.cl.hdc
+www.sex8.cc##.trioCarousel
+www.sex8.cc##.xg2.ptn
+www.sex8.cc###asx_text
+www.sex8.cc##.V-video-float
+www.sex8.cc###toubiao
+www.sex8.cc###postmessage_296671421 > div:has(img)
+www.sex8.cc##[src="/plugin-e6-rebate.html"]
+www.sex8.cc##.plm.plc > .cl.hm.mbm.mtw
+www.sex8.cc##.plm.plc > .a_oscar
+www.sex8.cc###pid296671421 > tbody > .ad > .plc > .b_sxp
+www.sex8.cc##.b_sxp
+www.sex8.cc##.zxy
+www.sex8.cc##div.b_sxc.bm:nth-of-type(2):has(img)
+www.sex8.cc##div.b_sxc.bm:nth-of-type(5):has(img)
+www.sex8.cc##div.b_sxc.bm:nth-of-type(9):has(img)
+www.sex8.cc##div.b_sxc.bm:nth-of-type(12):has(img)
+www.sex8.cc##div.b_sxc.bm:nth-of-type(15):has(img)
+www.sex8.cc##div.b_sxc.bm:nth-of-type(19):has(img)
+
+! 2022-11-20 http://www.playno1.com
+www.playno1.com##.pph.sd > .eis_adv2
+www.playno1.com##.mn > .eis_adv2
+
+! 2022-11-22 https://tor.stackexchange.com
+tor.stackexchange.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+
+! 2022-11-24 http://www.jingangjing.com
+www.jingangjing.com##.free-popup
+www.jingangjing.com##.float_banner
+
+! 2022-11-24 https://webapps.stackexchange.com
+webapps.stackexchange.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+
+! 2022-11-25 https://www.jokerlu.org
+
+www.jokerlu.org##.bottomd
+www.jokerlu.org##.leftd
+www.jokerlu.org##.rightd
+www.jokerlu.org##.topd
+www.jokerlu.org##.footer
+
+! 2022-11-26 https://www.52av.one
+www.52av.one##.a_cn
+www.52av.one##.a_mu
+
+! 2022-12-09 https://www.jokerlu.org
+www.jokerlu.org##.add
+www.jokerlu.org##.file
+
+! 2022-12-10 http://www.playno1.com
+www.playno1.com###portal_block_7847_content > .portal_block_summary > .cl
+!www.playno1.com###wp > .eis_mtm
+www.playno1.com###frame8I822E_left > .move-span.block
+www.playno1.com##[href^="http://twmall.sexyno1.com/union/product.php"]
+www.playno1.com##.y.eis_sd > div.eis_mtm [href^="https://www.sexyno1.com/"]
+www.playno1.com##.sthomesl1.slideshow > li > [href^="https://www.sexyno1.com/"]
+www.playno1.com##[href^="https://line.me/"]
+www.playno1.com##.portal_block_summary > div > [href^="https://www.sexyno1.com/"]
+www.playno1.com##div > [href^="https://www.sexyno1.com/"]
+www.playno1.com###tab5eUaf5_content > .dxb_bc
+www.playno1.com##.frame-3-2.cl.move-span.frame.eis_mtm.eis_ls_f3
+www.playno1.com###framePnGxms
+www.playno1.com###framePZPRyP
+
+! 2022-12-14 https://123movies.ba
+123movies.ba##.main-category.main-content > center > [href^="https://play.google.com/store/apps/details"]
+123movies.ba##.play-notice > .alert-warning.alert
+123movies.ba##header
+
+! 2022-12-15 https://www.comicbox.xyz
+www.comicbox.xyz##.inner
+
+! 2022-12-15 https://spankbang.com
+spankbang.com###interstitial_div_v3
+
+! 2023-01-05 http://www.hiporn.cc
+www.hiporn.cc###ads
+www.hiporn.cc##[href="https://dypj.app002.me/chan-1211/aff-sJ5E"]
+www.hiporn.cc##[src="/8499.gif"]
+
+! 2023-02-06 http://gu.sina.cn
+gu.sina.cn###__callup_bottom
+
+! 2023-02-21 https://9oclockmovie.top
+9oclockmovie.top##.mt20.video-wrapper > div > div > div > [href="https://e8z2dw.com"]
+9oclockmovie.top##.undertd
+9oclockmovie.top###displayDiv
+9oclockmovie.top##.toptd
+
+! 2023-03-06 https://yazhouse8.com
+yazhouse8.com##.banners
+yazhouse8.com##.bottom.hot-search
+yazhouse8.com##section
+yazhouse8.com##.item-bottom
+yazhouse8.com##div.articleList:nth-of-type(3) > .nav-pills.nav
+yazhouse8.com##.text-center.container > .nav-pills.nav
+yazhouse8.com##.navbar-fixed-top.navbar-default.navbar
+yazhouse8.com##[href="https://baichunlink.com/"]
+yazhouse8.com##.\35 2067.content.\35 5873 > [href="mp3/"]
+yazhouse8.com## [href="https://51seapp.com/"]
+yazhouse8.com##[href="https://haose.alinkdh.com/"]
+yazhouse8.com##[href="https://lan.alinkdh.com/"]
+yazhouse8.com##[href="https://7mei.alinkdh.com/"]
+yazhouse8.com##[href="https://www.selianba.com/"]
+yazhouse8.com##[href="av-app.html"]
+
+! 2023-03-19 https://theav.xyz
+theav.xyz##.c05d2418010bdae4e0e2ed0d831c73365
+theav.xyz##.o393c5996b052ffd8de648ec7b7aacf11
+theav.xyz##.videoplayerside.video_playr_sider
+theav.xyz##.y393c5996b052ffd8de648ec7b7aacf11
+theav.xyz##.od48fc69caaba8c44abafedb965a14895
+
+! 2023-04-11 https://gx.httpcn.com
+gx.httpcn.com##.hcvert_fenlei_bg.hcvert_fenlei
+gx.httpcn.com##.inform_tonglan
+gx.httpcn.com##.clearfix.hcvert_img
+gx.httpcn.com##.clearfix.hcvert
+gx.httpcn.com##.clearfix.hcvert07
+
+! 2023-04-14 http://zhongyibaodian.com
+zhongyibaodian.com###float
+zhongyibaodian.com##.gr
+zhongyibaodian.com##.post-body > .random-TCM-book
+zhongyibaodian.com##.flxg
+zhongyibaodian.com##[href="http://zhongyibaodian.com/app/weixin/"] > [src="http://zhongyibaodian.com/all/pic/ctopewm.gif"]
+zhongyibaodian.com##.zbody4
+zhongyibaodian.com##[href="http://zhongyibaodian.com/1000.html"]
+zhongyibaodian.com##.chm
+zhongyibaodian.com##.download-p
+zhongyibaodian.com##[href="/chmwenjiandabukai/"]
+zhongyibaodian.com##.zybook-lm
+zhongyibaodian.com##.pay-ad
+zhongyibaodian.com##.icon-medium-plus.bshare-custom
+zhongyibaodian.com##.post-b2 > .m7
+zhongyibaodian.com##.cs-top
+zhongyibaodian.com##.down
+
+! 2023-04-16 https://51cg1.com
+51cg1.com###post-card-5526 > .post-card-ads.post-card-mask
+51cg1.com###post-card-14435 > .post-card-ads.post-card-mask
+51cg1.com##[href="/archives/30405/"] > .post-card
+51cg1.com##.post-card-ads.post-card-mask
+51cg1.com##.post-content > p > a.content-file > .content-file-filename
+51cg1.com##blockquote > p
+51cg1.com##.post-content .btn-primary.btn
+51cg1.com###comment-form
+!51cg1.com###comments
+51cg1.com##.selected.content-tab-content
+51cg1.com##.content-tabs-head
+51cg1.com##.tags
+51cg1.com##.flash
+51cg1.com##.post-near > nav
+51cg1.com##blockquote
+! 2023-06-08 https://51cg1.com
+!51cg1.com##img[src^="data:image/jpeg;base64,"]
+51cg1.com##a.content-file:has(i)
+
+! 2023-04-21 https://m.thepaper.cn
+m.thepaper.cn##.adm-swiper-horizontal.adm-swiper
+m.thepaper.cn##.index_footer_banner__Mcr_R
+m.thepaper.cn##.header_header__5RcxZ
+
+! 2023-05-03 https://www.lzboks.com
+www.lzboks.com##.swiper-container-autoheight.swiper-container-horizontal.swiper-container
+www.lzboks.com##[href="https://www.lzboks.com/88205.html"] > .thumb
+www.lzboks.com##.slider-right
+
+! 2023-05-07 https://www.medsci.cn
+
+! 2023-05-07 https://sex8.cc
+sex8.cc##.float-left12.fnwehjnc12.full
+sex8.cc##.b_mu
+sex8.cc###forum_rules_181
+sex8.cc###fixed-bottom-modal
+sex8.cc##.zxy
+sex8.cc##.trioCarousel
+sex8.cc##.promotion-mask
+sex8.cc##.V-video-float
+sex8.cc###postmessage_289064918 > div > div
+sex8.cc###postmessage_289064918 > div
+sex8.cc##[src="/plugin-e6-rebate.html"]
+sex8.cc###toubiao
+sex8.cc###pid289137756 > tbody > .ad > .plc > .b_sxp
+sex8.cc##.ad > .plc
+sex8.cc## .a_oscar
+sex8.cc##div > [href="javascript: void(0);"]
+sex8.cc##td[id^=postmessage] > div:has(.gohome)
+sex8.cc##[href="https://62671.cc/"]
+sex8.cc##.show_img
+sex8.cc###carousel1
+sex8.cc##.xg2.ptn
+sex8.cc##.b_oscar2
+sex8.cc##table[class=plhin]> tbody > tr > .plc > .pct > div > div > div:not(:has(a[href*=attachment]))
+
+! 2023-05-07 https://w718.sx
+w718.sx##.layui-layer-dialog.layui-layer
+w718.sx###layui-layer-shade1
+
+! 2023-05-07 https://sex8.cc
+sex8.cc###location_list
+sex8.cc##.b_oscar1
+sex8.cc##.uk-first-column.uk-width-medium > .uk-alert
+sex8.cc##.uk-margin-left.uk-width-expand > div.uk-alert > div > [href="https://xn--169-4g6em5t.com/BOOK/XingShuBaoDian.apk"]
+
+! 2023-05-07 https://www.caoporn.com
+www.caoporn.com###wrapper
+www.caoporn.com##.mb-3.mt-3.content-right
+www.caoporn.com###textggs
+www.caoporn.com###images-1
+www.caoporn.com##div.container > div > div > [href="/url/dafa2019.html"]
+www.caoporn.com##.player-icon-replay-container
+www.caoporn.com##.sticky-top1 > .d-md-inline-block.d-none.container
+www.caoporn.com##[href="/url/3606-630.html"]
+www.caoporn.com##.mb-3.mt-3.content-left > div > div > [href="/url/dafa2019.html"]
+
+! 2023-05-12 https://www.tokyomotion.net
+www.tokyomotion.net##.nva-center
+
+! 2023-05-14 https://sex8.cc
+
+! 2023-05-14 https://xxb.mobi
+xxb.mobi##.portfolio-item.col-sm-12.col-lg-6
+
+! 2023-05-15 https://moz.agratechimneysweep.com
+moz.agratechimneysweep.com##.modown-ad
+moz.agratechimneysweep.com##.swiper-wrapper
+moz.agratechimneysweep.com##[href="https://moz.agratechimneysweep.com/88205.html"] > .thumb
+moz.agratechimneysweep.com##.slider-right
+moz.agratechimneysweep.com##.img > [href="https://moz.agratechimneysweep.com/88205.html"]
+
+! 2023-05-16 https://pan.baidu.com
+||staticsns.cdn.bcebos.com/amis/2021-11/1636965154147/web%E5%BA%95%E9%83%A8%E9%80%9A%E6%A0%8F710_90.png$image
+
+! 2023-05-16 https://aqrix.bjyjbc.com
+aqrix.bjyjbc.com##.swiper-wrapper
+aqrix.bjyjbc.com##[href="https://aqrix.bjyjbc.com/88205.html"] > .thumb
+aqrix.bjyjbc.com##.sitetips-default.sitetips
+aqrix.bjyjbc.com##.banner-slider
+aqrix.bjyjbc.com##.modown-ad
+
+! 2023-05-16 https://www.16ye.com
+www.16ye.com###deansubnav
+www.16ye.com##.portal_block_summary > .top-ad-img
+||www.6665q.com/template/dean_video_150725/deancss/ibg.jpg$image
+www.16ye.com###a3_diy1
+www.16ye.com###frameWT5rgC_left > .move-span.block.cl_block_bm
+www.16ye.com##.a_cn
+||www.6665q.com/template/dean_video_150725/deancss/ibg.jpg$image
+www.16ye.com## .plm.plc > .a_pb
+
+! 2023-05-19 https://nukedfans.com
+nukedfans.com##.mybudibgvtmsyjmehflvvlktmpbhrssamnlbapwduzurdvnbzvgcxq.mufsdkmjavbvvcvdmvdkvnmklennjdfrdcjlmrkromnrnutvgcxq
+
+! 2023-05-22 http://www.playno1.com
+www.playno1.com##.cl.hdc
+www.playno1.com##.d > .eis_mtm
+
+! 2023-06-03 https://html-online.com
+html-online.com##.mainArticle
+html-online.com##.subscribeSidebar
+html-online.com##.templateSzorny
+
+! 2023-06-05 https://cl.5979x.xyz
+cl.5979x.xyz##.tips > .sptable_do_not_remove
+
+! 2023-06-05 https://18comic.vip
+18comic.vip##.owl-drag.owl-loaded.partial-view.owl-carousel
+
+! 2023-06-07 https://ltube.life
+ltube.life##.cate
+ltube.life##.play-left > [href="https://33hh82.com:8955"]
+ltube.life##.play-rights
+ltube.life##.format-video:has( [href="https://33hh82.com:8955"])
+
+! 2023-06-07 https://aircrashseries.com
+aircrashseries.com##.con_section > div.da > div > div
+aircrashseries.com##div > [href^="https://apps.91url.info/"]
+aircrashseries.com##.tile > div.da > div
+
+twitch.tv##+js(twitch-videoad)
+
+
+
+! 2023-06-08 https://redwap-xxx.com
+redwap-xxx.com##.headerCode > .lazyloaded
+redwap-xxx.com##.footerCode > .lazyloaded
+
+www.porn5f.com##div.ONyvCU-adv-popup-overlay
+www.porn5f.com##div.tdads-nonlinear
+www.porn5f.com##div[class="row alb_320x250 p4"]
+www.porn5f.com##div.ONyvCU:has(iframe)
+! 2023-06-08 https://www.porn5f.com
+www.porn5f.com##.w-100.p-0.thumbnail
+
+||realsrv.com^$popup
+!
+||metarthunter.com^$popup
+
+! 2023-06-08 https://www.metarthunter.com
+www.metarthunter.com##.image-banner
+www.metarthunter.com##.image-banner
+www.metarthunter.com##.limit-2-rows.limit.static.list-gallery
+www.metarthunter.com##ul.limit.static.list-gallery:nth-of-type(4)
+
+! 2023-06-08 https://supjav.com
+supjav.com##a.btn-server:has-text(/DS|JS|SSB|Mixdrop|NinjaStream/)
+
+! 2023-06-09 https://www.xv-videos1.com
+www.xv-videos1.com##.ntv6dbC4A6EEB0A63a80514bd39a3EbaBaf
+www.xv-videos1.com###content>div:has(span:has-text(/直播/))
+www.xv-videos1.com##.head__menu-line__main-menu__lvl1
+
+! 2023-06-09 https://pngtree.com
+pngtree.com##._ncp-side.xs-hide.stylus-aside
+pngtree.com##.transform-login-c.transform-login
+
+! 2022-07-06 https://www.6park.com
+www.6park.com##td > table > tbody > tr > td > [href^="https://adm.beimg.com/count.php"]
+www.6park.com###banner1
+www.6park.com###banner0
+www.6park.com##[href^="https://www.lovevite.com/"]
+!www.6park.com##table:nth-of-type(6)
+www.6park.com##body > table > tbody > tr > td > div > [href^="https://adm.beimg.com/count.php"]
+www.6park.com###banner3
+www.6park.com###banner2
+www.6park.com##center > [href^="https://adm.beimg.com/count.php"]
+www.6park.com##a[href^="https://adm.beimg.com/count.php"]:nth-of-type(3)
+!www.6park.com##td > a[href^="https://adm.beimg.com/count.php"]
+! 2022-07-06 https://www.6parknews.com
+! 3/5/2020 https://www.6park.com
+!www.6park.com##table:nth-of-type(8) > tbody > tr > td:nth-of-type(4)
+!www.6park.com##table:nth-of-type(8) > tbody > tr > td:nth-of-type(1)
+! 5/23/2020 https://www.6park.com
+www.6park.com##table:nth-of-type(13)
+!www.6park.com##.td5 > table
+www.6park.com###hotpage_show3
+www.6park.com###hotpage_show4
+www.6park.com##table:nth-of-type(15)
+www.6park.com##marquee
+www.6park.com##table:nth-of-type(9)
+www.6park.com##table:nth-of-type(19)
+www.6park.com##table:nth-of-type(16)
+||www.6park.com/img/2.gif$image
+||www.6park.com/img/2.gif$image
+www.6park.com##table:nth-of-type(14)
+www.6park.com##table:nth-of-type(18)
+www.6park.com##table:nth-of-type(21)
+||www.6park.com/img/2.gif$image
+! 5/23/2020 https://club.6parkbbs.com
+club.6parkbbs.com##div.body_center:nth-of-type(2)
+club.6parkbbs.com##.plate-list
+club.6parkbbs.com##.btn-like
+! 5/23/2020 https://www.6parknews.com
+www.6parknews.com##.plate-list
+! 5/23/2020 https://web.6parkbbs.com
+web.6parkbbs.com##div.body_center:nth-of-type(2)
+web.6parkbbs.com##.plate-list
+! 2021-09-27 https://club.6parkbbs.com
+club.6parkbbs.com###scrollWrap
+! 2022-06-22 https://www.6park.com
+www.6park.com###ycpage_show
+www.6park.com##[href^="https://www.ka-cn.com/"]
+www.6park.com##table:nth-of-type(11)
+www.6park.com###parknews > b
+www.6park.com##table:nth-of-type(5)
+!www.6park.com##table:nth-of-type(7)
+! 2022-06-22 https://www.6parknews.com
+! 2022-06-22 https://www.6park.com
+!www.6park.com##body > div:nth-of-type(1) > span
+!www.6park.com##body > div
+!www.6park.com##table:nth-of-type(10)
+! 2022-06-22 https://club.6parkbbs.com
+!club.6parkbbs.com###site_info > table > tbody > tr > td:nth-of-type(2)
+! 2022-06-22 https://www.6park.com
+!www.6park.com###jinghua_show > [href="https://club.6parkbbs.com/chan10/index.php"]
+!www.6park.com###jinghua_show > [href="https://mv.6parkbbs.com/index.php"]
+!www.6park.com###jinghua_show > a[href^="https://web.6parkbbs.com/index.php"]:nth-of-type(29)
+! 2022-06-23 https://www.6park.com
+!www.6park.com###jinghua_show > [href="https://club.6parkbbs.com/bolun/index.php"]
+! 2023-05-15 https://www.6park.com
+!www.6park.com###jinghua_show > [href="https://club.6parkbbs.com/life2/index.php"]
+!www.6park.com###jinghua_show > [href="https://web.6parkbbs.com/index.php?act=bbs&bbsid=2156"]
+! 2022-06-23 https://www.6parknews.com
+!www.6parknews.com##tr:nth-of-type(5)
+! 2022-06-23 https://club.6parkbbs.com
+club.6parkbbs.com##[src="../pub/wwchat3.png"]
+club.6parkbbs.com##span > [href^="https://home.6park.com/index.php"] > [src="../pub/yq.png"]
+! 2022-06-24 https://www.6parknews.com
+!www.6parknews.com###newscontent_2 > div > div
+!www.6parknews.com###newscontent_2 > center
+!www.6parknews.com##div:nth-of-type(3) > table > tbody > tr > td:nth-of-type(1)
+!www.6parknews.com###newscontent_2 > table > tbody > tr > td > div
+www.6parknews.com###div_footer
+!www.6parknews.com##.td2
+www.6parknews.com##[src="./public/img/wwchat3.png"]
+!www.6parknews.com##table:nth-of-type(2) > tbody > tr > td
+!www.6parknews.com##body > table:nth-of-type(1) > tbody > tr:nth-of-type(1) > td
+! 2022-06-24 https://www.6park.com
+!www.6park.com##table:nth-of-type(3)
+6parkbbs.com###d_list > ul > li:has-text(成绩单)
+6parkbbs.com###d_list > ul > li:has-text(办理)
+6parkbbs.com###d_list > ul > li:has-text(诚聘板主)
+6parkbbs.com###d_list > ul > li:has-text(六合彩)
+6parkbbs.com###d_list > ul > li:has-text(兔子兔子老虎)
+6parkbbs.com##div.repl-list-one.repl-list:has-text(成绩单)
+6parkbbs.com##div.repl-list-one.repl-list:has-text(办理)
+6parkbbs.com##div.repl-list-one.repl-list:has-text(诚聘板主)
+6parkbbs.com##div.repl-list-one.repl-list:has-text(六合彩)
+6parkbbs.com##div.repl-list-one.repl-list:has-text(兔子兔子老虎)
+! 2022-08-05 https://home.6park.com
+www.cool18.com###site_info [href="https://home.6park.com/client/index.php"]
+! 2023-05-20 https://www.6park.com
+www.6park.com###parknews >a:has-text(/三国天下|YYH体育|血糖高达|DRS论文辅导|Nord VPN|投资理财|6年信誉/)
+www.6park.com##[href^="https://img.86uk.com/count.php"]
+!club.6parkbbs.com
+!club.6parkbbs.com###d_list > ul > li > ul > li:not(:has(li)):has-text(/(点“赞”)/)
+!club.6parkbbs.com###d_list > ul > li > ul > li:not(:has(li)):has-text(/(\^-\^)/)
+!club.6parkbbs.com###d_list > ul > li > ul > li:has-text(/(点“赞”).*(点“赞”)/)
+! 2023-06-10 https://club.6parkbbs.com
+! 只查看原创或者有被赠送金币礼物的帖子
+! 军纵
+club.6parkbbs.com##:matches-path(/nz) #d_list > ul > li:not(:has-text(/原创|(\^-\^)/))
+! 网际谈兵
+club.6parkbbs.com##:matches-path(/military) #d_list > ul > li:not(:has-text(/原创|(\^-\^)/))
+!club.6parkbbs.com###d_list > ul > li:has-text(/转载/):has-text(/(\^-\^)/)
+! 百家论坛
+club.6parkbbs.com##:matches-path(/other) #d_list > ul > li:not(:has-text(/原创|(\^-\^)/))
+! 博论天下
+club.6parkbbs.com##:matches-path(/bolun) #d_list > ul > li:not(:has-text(/原创|(\^-\^)/))
+! 生活百态
+club.6parkbbs.com##:matches-path(/life2) #d_list > ul > li:not(:has-text(/原创|(\^-\^)/))
+! 女性频道
+club.6parkbbs.com##:matches-path(/chan10) #d_list > ul > li:not(:has-text(/原创|(\^-\^)/))
+
+! 电脑前线
+club.6parkbbs.com##:matches-path(/know1) #d_list > ul > li:has-text(/新闻|软件|硬件/)
+!club.6parkbbs.com##:matches-path(/know1) #d_list > ul > li:has-text(/huanrui|顽童在线/)
+! 2022-07-06 https://www.cool18.com
+!www.cool18.com###d_list > ul > li > ul
+www.cool18.com###d_right_ad
+!www.cool18.com##div.body_center:nth-of-type(2)
+! 2/27/2019 https://www.cool18.com
+!www.cool18.com##table:nth-of-type(3)
+!www.cool18.com##table:nth-of-type(6) > tbody > tr:nth-of-type(1) > .td2
+!www.cool18.com##table:nth-of-type(7)
+! 3/5/2020 https://www.cool18.com
+||www.cool18.com/img/ads*$image
+!www.cool18.com##.plate-list
+! 2021-09-27 https://www.cool18.com
+www.cool18.com##[href="https://gg168vip.com/"]
+www.cool18.com##.img_ad_list
+! 2022-06-22 https://www.cool18.com
+!www.cool18.com##.btn-like
+! 2022-06-22 https://www.cool18.com
+!www.cool18.com###d_gold_list
+!www.cool18.com###d_gold_title
+!www.cool18.com###site_info > table > tbody > tr > td:nth-of-type(2)
+!www.cool18.com###site_info > table > tbody > tr > td:nth-of-type(3)
+! 2022-06-23 https://www.cool18.com
+!www.cool18.com##td > div > center
+!www.cool18.com##.gift
+! 2022-06-23 https://wap.cool18.com
+!wap.cool18.com##div.other:nth-of-type(1)
+!wap.cool18.com##div.other:nth-of-type(2)
+! 2022-06-23 https://www.cool18.com
+!www.cool18.com##[src="../pub/wwchat.png"]
+! 2022-06-30 https://www.cool18.com
+!www.cool18.com###d_list > ul > li:has-text(妈)
+!www.cool18.com###d_list > ul > li:has-text(疯狂假象)
+!www.cool18.com###d_list > ul > li:has-text(/艳母|母亲|母上|绿奴|绿帽|妻子|妈妈|美母|韵母|被儿子|与老妈|NTR/)
+www.cool18.com##:matches-path(/bbs4)   li:has-text(/母|母亲|母上|绿奴|绿帽|妻子|妈|美母|韵母|被儿子|与老妈|NTR/)
+www.cool18.com##:matches-path(/bbs7)   li:has-text(/恋之境界ASD|junbuyu|尺寸参差|badbad93|Goodever|muzhuyueyong/)
+www.cool18.com##:matches-path(/bbs7) #d_list > ul > li > ul > li:not(:has(li)):has-text(/(点“赞”)/)
+!www.cool18.com##:matches-path(/bbs7) #d_list > ul > li > ul > li:not(:has(li)):has-text(/(\^-\^)/)
+www.cool18.com##:matches-path(/bbs7) #d_list > ul > li > ul > li:not(:has(li)):has-text(/银元！/)
+!www.cool18.com###d_list > ul > li > ul > li:not(:has(li)):has-text(/(点“赞”)/)
+!www.cool18.com###d_list > ul > li > ul > li:not(:has(li)):has-text(/(\^-\^)/)
+!www.cool18.com###d_list > ul > li:has-text(成绩单)
+!www.cool18.com###d_list > ul > li:has-text(办理)
+!www.cool18.com###d_list > ul > li:has-text(xinlongcai)
+!www.cool18.com###d_list > ul > li:has-text(六合彩)
+!cool18.com###d_list > ul > li:has-text(xiaosawjp)
+! 2022-09-11 https://www.cool18.com
+! 2022-12-10 https://www.cool18.com
+! 2023-04-17 https://www.cool18.com
+www.cool18.com##div.body_center[style="width:1000px;height:90px;"]
+www.cool18.com##.plate-list
+! 2023-05-28 https://www.cool18.com
+!www.cool18.com##td > ul :has-text(支持3银元奖励)
+! 2023-05-30 https://www.cool18.com
+! 2023-06-03 https://www.cool18.com
+www.cool18.com###main_right > div > font
+! 2023-06-08 https://www.cool18.com
+www.cool18.com##:matches-path(/bbs7)  #d_list > ul > li> span
+www.cool18.com##:matches-path(/bbs7)  #d_list > ul > li > i
+!www.cool18.com##:matches-path(/bbs7)  #d_list > ul > li > a:last-of-type
+!www.cool18.com##:matches-css-before(#d_list > ul > li > a:last-of-type)
+
+! 2023-06-10 https://www.cool18.com
+!www.cool18.com###d_list > ul > li > ul > li:has-text(/(点“赞”).*(点“赞”)/)
+www.cool18.com##[href^="https://img.86uk.com/banners/"]
+||www.cool18.com/goldcoin6.png$image
+
+! 2023-06-10 https://t0319.91p789.com
+||*/icon_ad.gif$image
+||t0319.91p789.com/images/default/icon_ad.gif$image
+t0319.91p789.com###ad_thread2_0 > table > tbody > tr > td:has(a[href^='viewthread.php?tid=403409'])
+||fans.91selfie.com/fans/1946000_1655028173.jpg$image
+||fans.91selfie.com/fans/693836.gif$image
+||fans.91selfie.com/fans/dafa.gif$image
+||fans.91selfie.com/fans/2481e.gif$image
+||fans.91selfie.com/fans/6117.gif$image
+||fans.91selfie.com/fans/hb.gif$image
+
+! 2023-06-10 https://sexinsex.net
+sexinsex.net###ad_headerbanner
+
+! 2023-06-11 https://www.yazhouseba.com
+||www.yazhouseba.com/images/gg/bandao.jpg$image
+||www.yazhouseba.com/images/gg/bandao.jpg$image
+||www.yazhouseba.com/images/gg/bandao.jpg$image
+||www.yazhouseba.com/images/gg/2939-600-80.jpg$image
+||www.yazhouseba.com/images/*.jpg$image
+||www.yazhouseba.com/images/gg/*.png$image
+
+! 2023-06-12 https://www.cool18.com
+www.cool18.com##.btn-like
+
+! 2023-06-13 https://www.yycg56.com
+www.yycg56.com##.layui-layer-dialog.layui-layer
+www.yycg56.com###layui-layer-shade1
+www.yycg56.com##.hint-danger.content-hint
+www.yycg56.com##.content-tabs
+www.yycg56.com##.content-file.flash
+www.yycg56.com##.post-near > nav
+www.yycg56.com###body-bottom
+www.yycg56.com##.u8i9o0
+
+! 2023-06-13 https://fuli62.net
+fuli62.net###layui-layer1
+fuli62.net###layui-layer-shade1
+fuli62.net##.layui-layer-dialog.layui-layer
+fuli62.net##.hint-danger.content-hint
+fuli62.net##.content-tabs
+fuli62.net##.content-file.flash
+fuli62.net##.post-near > nav
+fuli62.net###body-bottom
+fuli62.net##.u8i9o0
+
+
+! 2023-06-13 https://fuli62.net
+fuli74.net###layui-layer1
+fuli74.net###layui-layer-shade1
+fuli74.net##.layui-layer-dialog.layui-layer
+fuli74.net##.hint-danger.content-hint
+fuli74.net##.content-tabs
+fuli74.net##.content-file.flash
+fuli74.net##.post-near > nav
+fuli74.net###body-bottom
+fuli74.net##.u8i9o0
+
+! 2023-06-13 https://fuli62.net
+fuli14.sk###layui-layer1
+fuli14.sk###layui-layer-shade1
+fuli14.sk##.layui-layer-dialog.layui-layer
+fuli14.sk##.hint-danger.content-hint
+fuli14.sk##.content-tabs
+fuli14.sk##.content-file.flash
+fuli14.sk##.post-near > nav
+fuli14.sk###body-bottom
+fuli14.sk##.u8i9o0
+
+! 2023-06-13 https://www.yycg26.com
+www.yycg26.com##.layui-layer-dialog.layui-layer
+www.yycg26.com###layui-layer-shade1
+www.yycg26.com##.layui-layer-dialog.layui-layer
+www.yycg26.com###layui-layer-shade1
+www.yycg26.com##.hint-danger.content-hint
+www.yycg26.com##.content-tabs
+www.yycg26.com##.content-file.flash
+www.yycg26.com##.post-near > nav
+www.yycg26.com###body-bottom
+www.yycg26.com##.u8i9o0
+
+
+! 2023-06-13 https://www.yycg56.com
+cgcg24.com##.layui-layer-dialog.layui-layer
+cgcg24.com###layui-layer-shade1
+cgcg24.com##.hint-danger.content-hint
+cgcg24.com##.content-tabs
+cgcg24.com##.content-file.flash
+cgcg24.com##.post-near > nav
+cgcg24.com###body-bottom
+cgcg24.com##.u8i9o0
+
+!https://www.cgcg45.com/
+cgcg45.com##.layui-layer-dialog.layui-layer
+cgcg45.com###layui-layer-shade1
+cgcg45.com##.hint-danger.content-hint
+cgcg45.com##.content-tabs
+cgcg45.com##.content-file.flash
+cgcg45.com##.post-near > nav
+cgcg45.com###body-bottom
+cgcg45.com##.u8i9o0
+
+! 2023-06-15 https://bbs.pcbeta.com
+bbs.pcbeta.com###ESBYMwG
+bbs.pcbeta.com##.gVPRW
+
+!www.t66y.com草榴社区反ub
+!www.t66y.com##+js(acis, disableSelection, reEnable)
+!www.t66y.com##+js(acis, r9aeadS)
+!www.t66y.com##+js(aopw, document.oncontextmenu)
+
+! 2023-06-16 https://spankbang.com
+spankbang.com##.channels_scroll_list
+
+!@@||youjizz.com/videos/embed/*$domain=youjizz.com
+!youjizz.com#@#video[autoplay]
+
+! 2023-06-17 https://www.jokerluc.info
+!www.jokerluc.info##div.col-md-12
+www.jokerluc.info##.topd
+www.jokerluc.info##.bottomd
+www.jokerluc.info##.leftd
+www.jokerluc.info##.rightd
+!www.jokerluc.info##.main-grids > div.clearfix
+!www.jokerluc.info##div.file > [href]
+www.jokerluc.info##.footer-top
+
+! 2023-06-17 https://www.jokerluc.info
+www.jokerluc.info##.add
+
+! youtube endscreen
+youtube.com##.html5-endscreen-content
+youtube.com##.html5-endscreen
+youtube.com##.ytp-ce-element
+youtube.com##.videowall-endscreen
+
+! 2023-06-21 https://www.xing18.cc
+www.xing18.cc##.a_cb.a_fl
+
+! 2023-06-21 https://www.7xi.tv
+www.7xi.tv##.hl-text-white.hl-this-box.hl-player-notice
+
+! 2023-06-22 https://sendvid.com
+sendvid.com##.features
+
+! 2023-06-23 http://www.ps123.net
+www.ps123.net##[href^="https://dspxlmy.ps123.net/api/adl/"]
+www.ps123.net###down3002
+
+! 2023-07-02 https://k.sina.com.cn
+k.sina.com.cn###sinaadToolkitBox1 > .sinaads-done.sinaads > ins
+k.sina.com.cn###sinaadToolkitBox0
+k.sina.com.cn##.article-content-left > div > .sinaads-done.sinaads > ins
+k.sina.com.cn##.right-side-ad1
+k.sina.com.cn##.clearfix.top-banner
+k.sina.com.cn##.right-side-ad2
+
+! 2023-07-02 https://www.fosshub.com
+www.fosshub.com##.ad
+www.fosshub.com##.cc-color-override--1985164196.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+
+! 2023-07-05 https://www.91rb.com
+www.91rb.com##[href="/url/hf.html"] > .toppic
+www.91rb.com## .toppic
+www.91rb.com##.message
+www.91rb.com##.right-vip
+
+! 2023-07-06 https://www.xvideos2.uk
+www.xvideos2.uk###content > div:has([src^="https://live-screencaps.vscdns.com/"])
+
+! 2023-07-06 https://www.aznude.com
+www.aznude.com##.aznlive-banner
+
+! 2023-07-06 https://leechaedam.com
+leechaedam.com##.opc-overlay
+leechaedam.com##.op3-popoverlay-show.op3-popoverlay-effect-1.op3-element
+leechaedam.com###op3-element-hoEQip9k
+leechaedam.com##.proof-displayed.proof-mobile.proof-desktop.proof-show-timeago.proof-position-bottom-left.proof-design-rounded
+leechaedam.com###op3-element-jGKu7wLU > .op3-background-parent.op3-column-content
+leechaedam.com###op3-element-45Lttp07
+leechaedam.com###op3-element-RJU35i4L
+leechaedam.com###op3-element-2h2PD9yG > .op3-background-parent.op3-column-content
+
+! 2023-07-06 https://imyyds.com
+imyyds.com##.fodong_box
+
+! 2023-07-06 https://www.69tang.org
+www.69tang.org##.dmcenter
+www.69tang.org##.video-holder > center > div:has-text(/收藏/)
+www.69tang.org###imgs_link2
+www.69tang.org##.video-holder > div > li
+
+! 2023-07-07 https://www.jokerlu21.cc
+www.jokerlu21.cc##.bottomd
+www.jokerlu21.cc##.leftd
+www.jokerlu21.cc## .add
+
+! 2023-07-07 http://www.timliao.com
+www.timliao.com##.screenlimit-viewthread-980-right
+
+! 2023-07-07 https://www.timtaiwan.com
+www.timtaiwan.com##.bdright
+www.timtaiwan.com##.mobile_dn.google_blk
+
+! 2023-07-07 https://www.pornmega.com
+www.pornmega.com##[href^="https://buddhabangxxx.com"]
+
+! 2023-07-08 https://www.6park.com
+www.6park.com##[href^="https://www.italkbbtv.com/"]
+
+! 2023-07-09 https://www.pornlulu.com
+www.pornlulu.com###fullPageModal
+www.pornlulu.com##div.m-0.no-gutters.row:nth-of-type(4):has([href^="https://www.860bb66.com/"])
+www.pornlulu.com##div.px-1.p-0.item.col-12.col-sm-4.col-md-3.col-lg-3 > .card
+www.pornlulu.com##.p-1.row:has-text(/推荐/)
+www.pornlulu.com###w2 > li.nav-item > .nav-link
+www.pornlulu.com##div.m-0.no-gutters.row:nth-of-type(1):has([href^="https://8879t.vip"])
+
+! 2023-07-09 https://fcw.xxx
+fcw.xxx##body > div.container > div.content > a
+
+! 2023-07-09 http://www.ddav.tv
+www.ddav.tv##.content.container > .adv
+www.ddav.tv##div.content-group > .adv
+www.ddav.tv###player-advertising
+
+! 2023-07-09 https://www.pornlulu.com
+www.pornlulu.com##.m-0.no-gutters.row:has([href^="https://22dd95.com"])
+www.pornlulu.com## li.nav-item > .nav-link:has-text(/赌场|裸聊/)
+
+! 2023-07-09 https://mrdeepfakes.com
+mrdeepfakes.com##.search-cloud.box
+mrdeepfakes.com##[href="https://www.rabbitsreviews.com/porn/deals"]
+
+! 2023-07-09 https://adultdeepfakes.com
+adultdeepfakes.com##.inter
+
+! 2023-07-10 https://deanesmachines.com
+deanesmachines.com##.container > div.da > div > div:has-text(/广告/)
+deanesmachines.com##div.da > div > [href^="https://apps.91url.info/"]
+
+! 2023-07-11 https://unix.stackexchange.com
+unix.stackexchange.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+
+! 2023-07-17 https://51cg1.com
+!51cg1.com##article:has(a[target="_blank"])
+
+! 2023-07-20 https://theporn.cc
+theporn.cc##.q-mb-xs > [href="https://12999s.vip:8955"]
+theporn.cc##[href^="https://lbe8c.8eee161.com"]
+||stib20.top/tmp/zb/0101u120009udrvgm786A.gif?iv=3c89fe7c69a5495$image
+||kjimg10.360buyimg.com/ott/jfs/t1/120993/16/33030/1021535/6380d2dbE2ee6e05e/c45dd20fdac2727b.gif$image
+||kjimg10.360buyimg.com/*$image
+||stib20.top/tmp/zb/0101u120009udrvgm786A.gif?iv=3c89fe7c69a5495$image
+theporn.cc##.a188f04c50c311cb768e7facf1c400461
+theporn.cc##.d25fdd002c3773eb9ec8288b3f357f283
+
+! 2023-07-22 https://www.ddxs.com
+www.ddxs.com##.RMss1
+
+! 2023-07-24 https://www.javlibrary.com
+www.javlibrary.com###topbanner11
+www.javlibrary.com###sidebanner11
+www.javlibrary.com##.bottombanner13
+
+! 2023-08-22 https://www.gushiwen.cn
+www.gushiwen.cn###hide-center2
+www.gushiwen.cn###threeWeixin2
+
+! 2023-08-25 https://www.biqugeu.net
+www.biqugeu.net##.ywtop
+www.biqugeu.net##.wrap
+www.biqugeu.net##.nav
+
+! 2023-08-29 https://m.dizishu.com
+m.dizishu.com##.footer
+!m.dizishu.com##.set
+m.dizishu.com##[href="javascript:posterror();"]
+m.dizishu.com##div.chapter-page-btn > ul
+m.dizishu.com##.header
+
+! 2023-09-10 https://x99av.com
+x99av.com###site-content>div:has([href="https://ky0019.net"])
+x99av.com###video_playr_side > .q-mb-xs
+
+! 2023-09-29 https://www.eporner.com
+www.eporner.com##.forcedisplay.vjs-big-play-button
+
+! 2023-10-05 https://serverfault.com
+serverfault.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+
+! 2023-10-06 https://xn--prs482a.jokerlu.cloud
+jokerlu.cloud##.leftd
+jokerlu.cloud##.rightd
+jokerlu.cloud##.bottomd
+jokerlu.cloud##.topd
+jokerlu.cloud##.add
+
+惊蛰.jokerlu.buzz##.leftd
+惊蛰.jokerlu.buzz##.rightd
+惊蛰.jokerlu.buzz##.bottomd
+惊蛰.jokerlu.buzz##.topd
+惊蛰.jokerlu.buzz##.add
+
+! 2023-10-09 https://jjgirls.com
+jjgirls.com##.a492277
+
+! 2023-10-09 https://1.yupug.com
+1.yupug.com##.portal_block_summary
+1.yupug.com##.byg_sd_first
+
+! 2023-10-10 https://thepornpicture.com
+thepornpicture.com##.widget_hu_tabs.widget
+thepornpicture.com##.group.related-posts
+thepornpicture.com##.central-header-zone.hu-pad.group
+
+! 2023-10-13 https://punishworld.com
+punishworld.com##.N2jFvPDybkEKUjydZ9Ql21MWCB0LTKzY
+punishworld.com###single-wrapper>article > section.single-video-player>div:nth-of-type(2):has(video)
+punishworld.com###page>div:nth-of-type(4):has(img)
+punishworld.com###single-wrapper>article > section.single-video-player > div.video_play_box>div:nth-of-type(1):has(a)
+
+! 2023-10-17 https://www.pornstar-pics.com
+www.pornstar-pics.com##.isotope.image-list
+
+! 2023-10-24 https://sexpornpictures.com
+sexpornpictures.com##.element
+
+! 2023-11-06 https://www.youtube.com
+www.youtube.com##.fc-whitelist-root
+
+! 2023-11-06 https://www.c70j.com
+www.c70j.com###sidebanner11
+
+! 2023-11-12 https://www.bilibili.com
+www.bilibili.com##.bili-mini-mask
+
+! 2023-11-19 https://moviewc.xyz
+moviewc.xyz##.show.fade.modal
+
+! 2023-11-23 https://www.babepedia.com
+www.babepedia.com##.gallerybanner
+www.babepedia.com##.lazy.pbbanner
+www.babepedia.com##.menuthumb.thumbshotsmall.thumbshot
+
+! 2023-11-25 https://clothoff.io
+clothoff.io##.waiting
+
+! 2023-11-27 https://www.medsci.cn
+www.medsci.cn###loginIframe
+
+! 2023-11-30 https://math.stackexchange.com
+math.stackexchange.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-600.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+
+! 2023-12-02 https://vjav.com
+vjav.com##.btn-play
+
+! 2023-12-09 https://www.sohu.com
+www.sohu.com##.groom-read
+www.sohu.com##.clear.article-allsee
+www.sohu.com###right-side-bar
+www.sohu.com##.left.column
+www.sohu.com##.float-links
+www.sohu.com##.left-bottom-float-fullScreenSleepContainer
+www.sohu.com##.left-bottom-float
+
+! 2023-12-13 https://viewgals.com
+viewgals.com##.clear.container-cams
+viewgals.com##.clear.m-content > .clear.container
+!viewgals.com##.az-listing
+!viewgals.com##.clear.m-content
+viewgals.com##.sponsor-button
+viewgals.com##.cams-title.underline.wrapper
+
+! 2022-10-08 http://viewgals.com
+viewgals.com##li.jillian-custom-spot
+viewgals.com##[href^="https://go.sexygirlspics.live/"]
+
+! 2023-12-14 https://webapps.stackexchange.com
+webapps.stackexchange.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-600.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+
+! 2024-01-10 https://askubuntu.com
+askubuntu.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-600.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+www.youtube.com#@#.ytp-caption-segment, .ytp-subtitles-button
+
+! 2024-01-24 https://51cg1.com
+51cg1.com##.footer-desc
+51cg1.com###foot-menu
+
+! 2024-01-24 https://www.cool18.com
+www.cool18.com###site_map > div > .adv-6park
+www.cool18.com##td > .adv-6park
+www.cool18.com##td > div > div:has(a[href^="http://www.empire-night.com"])
+www.cool18.com##td > div > .adv-6park
+! 2024-01-24 https://www.6park.com
+www.6park.com##table:nth-of-type(5):has(tbody > tr > td:nth-child(1) > table > tbody > tr > td:nth-child(1) > span > font)
+www.6park.com##center > div:has(div[data-aaad])
+
+##td > .adv-6park
+##.adv-6park
+##div.body_center:nth-of-type(2):has(div.adv-6park)
+
+! 2024-01-25 https://51cg1.com
+
+! 2024-01-25 https://www.cool18.com
+www.cool18.com##td > div > div:has(a>img[src^="https://ad.parkvv.com"])
+club.6parkbbs.com#@#.plate-list
+
+! 2024-01-26 https://www.pornbest.org 在线赌博类广告
+##[href^="https://www.5454.xn"]
+##[href^="http://kyty8350.com/"]
+##[href^="https://tbh568.com"]
+##[href^="https://345014.cc"]
+##[href^="https://auu73.com"]
+##[href^="https://bw8879.vip"]
+##[href^="https://88cpw.cc"]
+##[href^="https://bw7795.vip"]
+##[href^="http://xx.sadjdjasasf3442.com"]
+##[href^="http://xx.5992gg1.vip"]
+##[href^="https://*.hwfhixxrxui.com"]
+##[href^="https://13-fd31gdf3hh.vip"]
+##[href^="https://*.rzgtiv.com/"]
+##[href^="https://www.huntermailfocus.com/"]
+##[href^="https://*.twtgjdizfnl.com/"]
+##[href^="https://www.cgkjvip.com"]
+##[href^="https://ifkr787.xyz"]
+##[href^="https://bw*.vip"]
+##[href^="https://*.rzgtiv.com"]
+
+
+! 2024-01-26 https://www.pornlulu.com
+||www.pornlulu.com/images/friend/*.webp$image
+||www.pornbest.org/images/friend/*.webp$image
+
+! 2024-01-26 去掉inline的script
+
+www.pornbest.org##^script:has-text(/injectPops/)
+www.photos18.com##^script:has-text(/injectPops/)
+www.pornlulu.com##^script:has-text(/injectPops/)
+
+! 2024-01-26 https://www.pornbest.org
+www.pornbest.org###fullPageModal
+
+! 2024-01-26 https://th.spankbang.com
+||shorts-api.cdn.live/widgets/*$subdocument
+
+! 2024-01-27 https://z008.blogspot.com
+z008.blogspot.com##.comment-form
+z008.blogspot.com##.section.navbar
+
+! 2024-01-28 https://viewgals.com
+viewgals.com##li.jillian-live-spot
+viewgals.com##.az-listing
+
+! 2024-01-28 https://m.jb51.net
+m.jb51.net##.readall_box
+
+! 2024-01-29 http://m46b.com
+m46b.com###content_bottom_gg
+m46b.com##.divpagerow
+m46b.com###page_bottom_top_gg
+m46b.com##[href="https://bw7795.vip"]
+m46b.com###menu_top_gg > [href="http://xx.sadjdjasasf3442.com/ok888.html"]
+m46b.com###menu_top_gg > [href="http://xx.5992gg1.vip/9304x7gn.html"]
+m46b.com###menu_top_gg > [href="https://kjtrt.hwfhixxrxui.com/3434/tt20/index.html"]
+m46b.com###menu_top_gg > [href="https://13-fd31gdf3hh.vip"]
+m46b.com###menu_top_gg > [href="https://607.rzgtiv.com/aff-bqWxV"]
+m46b.com##a[href="https://www.huntermailfocus.com/daili04.htm"]:nth-of-type(7)
+m46b.com##a[href="https://www.huntermailfocus.com/daili04.htm"]:nth-of-type(8)
+m46b.com###menu_top_gg > [href="https://rtgxd.twtgjdizfnl.com/0167/241/index.html"]
+m46b.com##a[href="https://www.cgkjvip.com/bygg96.htm"]:nth-of-type(1)
+m46b.com##a[href="https://www.cgkjvip.com/bygg96.htm"]:nth-of-type(2)
+m46b.com##.logo
+m46b.com###top_notice > [href="https://ifkr787.xyz/ntdf"]
+m46b.com###top_notice
+m46b.com###content_top_gg
+
